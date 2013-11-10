@@ -1,8 +1,8 @@
 /*
  *= require components/bootstrap/dist/css/bootstrap.min
  *= require_self
- *= require_tree .
- */
+ *= require main
+*/
 
 
 @charset "utf-8";

@@ -1,3 +1,5 @@
+require './app/controllers/controller_test.rb'
+
 ###
 # Compass
 ###
@@ -48,14 +50,12 @@
 activate :sprockets
 sprockets.append_path File.join('app', 'assets', 'javascripts')
 
-
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
-set :markdown, :layout_engine => :haml
 set :markdown_engine, :redcarpet
-set :redcarpet, fenced_code_blocks: true, autolink: true
+set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 # Build-specific configuration
 configure :build do
