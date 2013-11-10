@@ -22,3 +22,7 @@
 # Ignore tempfile
 #*
 .#*
+
+# Ignore TODO
+TODO
+TODO.org
