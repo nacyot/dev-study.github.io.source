@@ -1,0 +1,7 @@
+{
+    "name": "dev.study.site",
+    "dependencies": {
+        "d3": "~3",
+        "bootstrap": "~3"
+    }
+}
