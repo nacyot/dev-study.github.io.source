@@ -1,29 +1,38 @@
-require './app/controllers/controller_test.rb'
-require './app/controllers/activerecord_test.rb'
-require './app/models/post.rb'
+# -*- coding: utf-8 -*-
+# Require actionpack
+require 'abstract_controller'
+require 'action_controller'
 
-activate :livereload
-activate :sprockets
+# Connect database
+require './config/connect_database.rb'
+
+# Autoload app directory
+Dir[File.join("app/models**/*.rb")].each {|file| require file }
+Dir[File.join("app/decorators**/*.rb")].each {|file| require file }
+Dir[File.join("app/controllers**/*.rb")].each {|file| require file } 
+
+# Set Routings
+require './config/routes.rb'
+Routes.routes proxy_manager
+
+# Activate modules
+# activate :livereload
+# activate :sprockets
+
+# Directory configure
 sprockets.append_path File.join 'app', 'assets', 'javascripts'
-
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+# Markdown configure
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
-# Activerecord Settings
-ActiveRecord::Base.configurations = YAML.load_file './config/database.yml'
-ActiveRecord::Base.establish_connection 'development'
+# Set reload path
 
 # Build-specific configuration
 configure :build do
+  
 end
 
-Post.all.each do |post|
-  proxy "/post/#{post.title}.html", "/post/template.html", :locals => {:post => post }, :ignore => true
-end
-
-# art = ActiverecordTest.new
-# art.hello
