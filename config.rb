@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
+require './config/middleman_routes.rb'
+require './config/routes.rb'
 require './config/boot.rb'
+require './lib/render.rb'
 
 # Set Routings
-require './config/routes.rb'
-Routes.routes proxy_manager, ignore_manager
+Routes.set_managers proxy_manager, ignore_manager
+Routes.proxy_routes
 
 # Activate modules
 # activate :livereload
 # activate :sprockets
-
-# set :database, "sqlite://db/#{ENV['MIDDLEMAN_ENV']}.sqlite3"
 
 # Directory configure
 sprockets.append_path File.join 'app', 'assets', 'javascripts'
@@ -21,13 +22,7 @@ set :images_dir, 'images'
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
-# ignore "/post/template.html"
-
-# Set reload path
-
-
 # Build-specific configuration
 configure :build do
-  
 end
 

@@ -6,5 +6,15 @@ title: Welcome to Middleman
   <h1>Middleman is Watching</h1>
   <p class="doc">
     <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
+    <%- posts.each do |post| %>
+      <br/>
+      <%= post.title %>
+      <br/>
+      <%= post.content %>
+      <br/>
+      <%= post.created_at %>
+      <br/>
+      <br/>
+    <%- end %>
   </p><!-- .doc -->
 </div><!-- .welcome -->

@@ -3,7 +3,7 @@ class PostDecorator < Draper::Decorator
   delegate_all
 
   def crazy_title
-     object.title + "aoeutae2423aoeaoeuaeouaoeu213213"
+     object.title + ""
   end
 end
  
