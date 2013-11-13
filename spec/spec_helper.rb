@@ -4,7 +4,6 @@ require 'capybara/rspec'
 require 'coveralls'
 require 'factory_girl'
 require 'rspec/autorun'
-
 require './config/boot.rb'
 Dir[File.join("./spec/factories**/*.rb")].each {|file| require file }
 
@@ -20,7 +19,10 @@ RSpec.configure do |config|
 end
 
 Capybara.app = Middleman::Application.server.inst do
-  set :root, File.expand_path(File.join(File.dirname(__FILE__), '..'))
-  set :environment, :development
+  root = File.expand_path(File.join(File.dirname(__FILE__), '..'))
+
+  ENV['MM_ROOT'] = root
+  set :root, root
+  set :environment, :test 
   set :show_exceptions, false
 end

@@ -2,7 +2,7 @@ require "spec_helper"
 
 describe "index", :type => :feature do
   before do
-    visit "/"
+    visit "/index.html"
   end
   
   it "has the correct title header" do
