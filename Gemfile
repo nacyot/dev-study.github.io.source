@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 # Base gems
 gem "rake"
+gem "dotenv"
 
 # Middleman
 gem "middleman", "~> 3"
@@ -21,6 +22,7 @@ gem "redcarpet"
 
 # Watch gems
 # gem "shotgun"
+gem "guard-rspec"
 gem "guard-middleman"
 
 # gems

@@ -26,3 +26,7 @@
 # Ignore TODO
 TODO
 TODO.org
+
+# Ignore coverage
+/coverage
+/tmp
