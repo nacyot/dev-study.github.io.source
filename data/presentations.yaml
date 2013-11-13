@@ -1,0 +1,121 @@
+- title: REAL TIME SURVEY
+  date: 2013-11-2
+  user: 이한국
+  slide: http://slid.es/hanguklee/real-time-survey
+  video: http://www.youtube.com/watch?v=UTONoCgaPvU
+  link : http://vo-te-me.herokuapp.com/
+- title: Real Time Survey
+  date: 2013-11-2
+  user: 이성구
+  video: http://www.youtube.com/watch?v=ggTP1jmrzLQ
+- title: 공동 가계부
+  date: 2013-11-2
+  user: 최효성
+  video: http://youtu.be/yBS0f1PQ0mY
+- title: 공동 가계부
+  date: 2013-11-2
+  user: 김충섭
+  slide: http://slid.es/chungsubkim/angularjs-tips
+  video: http://www.youtube.com/watch?v=usJHQezRVzg
+- title: Visualization-Mapping
+  date: 2013-10-23
+  user: 김대권
+  slide: http://www.slideshare.net/ext/visualization-and-data-mapping
+- title: $resource url tip
+  date: 2013-10-16
+  user: 김충섭
+  slide: http://slid.es/chungsubkim/resource-url-tip
+- title: TDD
+  date: 2013-10-16
+  user: 최효성
+  sldie: http://slid.es/rorlab/tdd
+- title: Rails API 만들기
+  date: 2013-10-2
+  user: 최효성
+  video: http://youtu.be/FJ0pDpbMN1k
+- title: AngularJS 라이브 코딩
+  date: 2013-10-2
+  user: 김충섭
+  slide: http://slid.es/chungsubkim/angularjs-example
+  video: http://youtu.be/BQGEzVtP1Iw
+  link:
+    - https://www.facebook.com/groups/dev.study.members/permalink/524493767645161/
+    - https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fsubicura%2Fdevstudy-sample-angularjs&h=tAQFk9L6y
+    - https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fsubicura%2Fdevstudy-sample-angularjs-server&h=HAQG8jxDv   
+- title: Yeoman 소개
+  date: 2013-9-28
+  user: 이준헌
+  video: http://www.youtube.com/watch?v=1IoqgkcUbck&feature=youtu.behttp://www.youtube.com/watch?v=1IoqgkcUbck&feature=youtu.be
+  link: https://www.facebook.com/groups/dev.study.members/permalink/521989451228926/
+- title: 리팩토링
+  date: 2013-9-28
+  user: 장재휴
+  video: https://www.youtube.com/watch?v=PDMxLrvIyxU&feature=youtu.be
+  slide: https://www.facebook.com/download/506203769473705/Refactoring.key
+  link: https://github.com/bbugguj/Refactoring
+- title: Service in Angular
+  date: 2013-9-28
+  user: 장재휴
+  video: https://www.youtube.com/watch?v=Y2d9uekgD6g
+  slide: https://docs.google.com/document/d/1qils2hV8pEPGpIrD6ukUPfh3TyNeWLQuN4bE4oAlqY8/edit?usp=sharing
+- title: Angular 기타 모듈 
+  user: 임경호
+  slide: https://docs.google.com/document/d/1fo3M1yj_0V3BwxtOuoh_4KCt0sMilb1dYopaGYI_4jo/edit
+- title: Bootstrap 활용
+  user: 변용훈
+  slide: http://wiki.ecplaza.net/river/slide/rnd_prj/bootstrap.html
+  link: https://www.facebook.com/groups/dev.study.members/permalink/513575062070365/
+- title: Controller of rails
+  date: 2013-8-21
+  user: 김한기
+  slide: http://slid.es/meoooh/controller-of-rails
+- title: deck by Seunggu Lee
+  date: 2013-8-21
+  user: 이성구
+  slide: https://slid.es/seunggulee/deck
+- title: RubyOnRail Model by Dewey Hong
+  date: 2013-8-21
+  user: 홍두희
+  slide: http://slid.es/deweyhong/rubyonrail-model
+- title: Ruby
+  date: 2013-8-14
+  user: 김대권
+  slide: http://slid.es/nacyot/ruby
+- title: Team Project
+  date: 2013-8-14
+  user: 이강훈
+  slide: https://slid.es/kanghunlee/team-project
+- title: Rails-style templete for Node.js
+  user: 최완복
+  slide: http://slid.es/wanbok/rails-style-template-for-node-js
+  link: https://github.com/wanbok/rails-style-template
+- title: Responsive Nested Layout
+  video: 
+    - http://youtu.be/vIBtoX1v4do
+    - http://youtu.be/zaMllTj6cM8
+    - http://www.youtube.com/watch?v=2H5M3tuF968
+- title: Putne 소개
+  user: 김대권
+  slide: 
+- title: Zero to Pinterest UI
+  user: 김성준
+  video: https://www.youtube.com/watch?v=5yP9Se1M1ZE
+- title: TDD with Angular.js
+  user: 최완복
+  video: http://www.youtube.com/watch?v=ky5niqF7vHc
+- title: Ruby On Rails Overview
+  date: 2013-8-10
+  user: 김성준
+  slide: http://slid.es/kimseongjun/ruby-on-rails
+- title: Trello Best Way?
+  date: 2013-8-10
+  user: 김수혁
+  slide: http://slid.es/monovision/trello
+- title: Backbone Overview
+  date: 2013-8-10
+  user: 이준헌
+  slide: http://slid.es/junheonlee/backbonejs
+- title: Bootstrap Overview
+  date: 2013-8-10
+  user: 민동국
+  video: http://youtu.be/z7wvaE5fYN8

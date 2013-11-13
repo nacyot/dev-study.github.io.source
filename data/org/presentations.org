@@ -1,0 +1,74 @@
+** REAL TIME SURVEY (이한국, 11/2)
+   http://slid.es/hanguklee/real-time-survey
+   http://www.youtube.com/watch?v=UTONoCgaPvU
+   http://vo-te-me.herokuapp.com/
+   데모 - http://vo-te-me.herokuapp.com/ 
+   발표 동영상 - http://www.youtube.com/watch?v=UTONoCgaPvU
+   발표 자료 - http://slid.es/hanguklee/real-time-survey
+** Real Time Survey (이성구, 11/2)
+   http://www.youtube.com/watch?v=ggTP1jmrzLQ&feature=youtube_gdata_player
+   발표 동영상 - http://www.youtube.com/watch?v=ggTP1jmrzLQ
+** 공동 가계부 (최효성, 11/2)
+   http://youtu.be/yBS0f1PQ0mY
+** 공동 가계부 (김충섭, 11/2)
+   http://slid.es/chungsubkim/angularjs-tips
+   http://www.youtube.com/watch?v=usJHQezRVzg
+** Visualization-Mapping (김대권, 10/23)
+   http://www.slideshare.net/ext/visualization-and-data-mapping
+** $resource url tip (김충섭, 10/16)
+   http://slid.es/chungsubkim/resource-url-tip
+** TDD (최효성, 10/16)
+   http://slid.es/rorlab/tdd
+** Rails API 만들기 (최효성, 10/2)
+   http://youtu.be/FJ0pDpbMN1k
+** AngularJS 라이브 코딩 (김충섭, 10/2)
+   http://slid.es/chungsubkim/angularjs-example
+   http://youtu.be/BQGEzVtP1Iw
+   https://www.facebook.com/groups/dev.study.members/permalink/524493767645161/
+   https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fsubicura%2Fdevstudy-sample-angularjs&h=tAQFk9L6y
+   https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fsubicura%2Fdevstudy-sample-angularjs-server&h=HAQG8jxDv   
+** Yeoman 소개 (이준헌, 9/28)
+   https://www.facebook.com/groups/dev.study.members/permalink/521989451228926/
+   http://www.youtube.com/watch?v=1IoqgkcUbck&feature=youtu.behttp://www.youtube.com/watch?v=1IoqgkcUbck&feature=youtu.be
+** 리팩토링 (장재휴, 9/28)
+   https://www.youtube.com/watch?v=PDMxLrvIyxU&feature=youtu.be
+   https://github.com/bbugguj/Refactoring
+   https://www.facebook.com/download/506203769473705/Refactoring.key
+** Service in Angular (장재휴, 9/28)
+   https://www.youtube.com/watch?v=Y2d9uekgD6g
+   https://docs.google.com/document/d/1qils2hV8pEPGpIrD6ukUPfh3TyNeWLQuN4bE4oAlqY8/edit?usp=sharing
+** Angular 기타 모듈 (임경호)
+   https://docs.google.com/document/d/1fo3M1yj_0V3BwxtOuoh_4KCt0sMilb1dYopaGYI_4jo/edit
+** Bootstrap 활용 (변용훈)
+   http://wiki.ecplaza.net/river/slide/rnd_prj/bootstrap.html
+   https://www.facebook.com/groups/dev.study.members/permalink/513575062070365/
+** Controller of rails (김한기, 8/21)
+   http://slid.es/meoooh/controller-of-rails
+** deck by Seunggu Lee (이성구, 8/21)
+   https://slid.es/seunggulee/deck
+** RubyOnRail Model by Dewey Hong (홍두희, 8/21)
+   http://slid.es/deweyhong/rubyonrail-model
+** Ruby (김대권, 8/14))
+   http://slid.es/nacyot/ruby
+** Team Project (이강훈, 8/14)
+   https://slid.es/kanghunlee/team-project
+** Rails-style templete for Node.js
+   http://slid.es/wanbok/rails-style-template-for-node-js
+   https://github.com/wanbok/rails-style-template
+** Responsive Nested Layout
+   http://youtu.be/vIBtoX1v4do
+   http://youtu.be/zaMllTj6cM8
+   http://www.youtube.com/watch?v=2H5M3tuF968
+** Putne 소개
+** Zero to Pinterest UI
+   https://www.youtube.com/watch?v=5yP9Se1M1ZE
+** TDD with Angular.js (최완복)
+   http://www.youtube.com/watch?v=ky5niqF7vHc
+** Ruby On Rails Overview (김성준, 8/10)
+   http://slid.es/kimseongjun/ruby-on-rails
+** Trello Best Way? (김수혁, 8/10)
+   http://slid.es/monovision/trello
+** Backbone Overview (이준헌, 8/10)
+   http://slid.es/junheonlee/backbonejs
+** Bootstrap Overview(민동국, 8/10)
+   http://youtu.be/z7wvaE5fYN8
