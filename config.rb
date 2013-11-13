@@ -1,23 +1,15 @@
 # -*- coding: utf-8 -*-
-# Require actionpack
-require 'abstract_controller'
-require 'action_controller'
-
-# Connect database
-require './config/connect_database.rb'
-
-# Autoload app directory
-Dir[File.join("app/models**/*.rb")].each {|file| require file }
-Dir[File.join("app/decorators**/*.rb")].each {|file| require file }
-Dir[File.join("app/controllers**/*.rb")].each {|file| require file } 
+require './config/boot.rb'
 
 # Set Routings
 require './config/routes.rb'
-Routes.routes proxy_manager
+Routes.routes proxy_manager, ignore_manager
 
 # Activate modules
 # activate :livereload
 # activate :sprockets
+
+# set :database, "sqlite://db/#{ENV['MIDDLEMAN_ENV']}.sqlite3"
 
 # Directory configure
 sprockets.append_path File.join 'app', 'assets', 'javascripts'
@@ -29,7 +21,10 @@ set :images_dir, 'images'
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
+# ignore "/post/template.html"
+
 # Set reload path
+
 
 # Build-specific configuration
 configure :build do
