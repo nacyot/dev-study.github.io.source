@@ -85,8 +85,12 @@ GEM
       tilt
     hike (1.2.3)
     http_parser.rb (0.5.3)
+    httparty (0.12.0)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
     i18n (0.6.5)
     journey (1.0.4)
+    json (1.8.1)
     kramdown (1.2.0)
     less (2.4.0)
       commonjs (~> 0.2.7)
@@ -129,6 +133,7 @@ GEM
     mime-types (2.0)
     mini_portile (0.5.2)
     multi_json (1.8.2)
+    multi_xml (0.5.5)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     pry (0.9.12.3)
@@ -223,6 +228,7 @@ DEPENDENCIES
   guard-middleman
   guard-rspec
   haml
+  httparty
   less
   middleman (~> 3)
   middleman-livereload (~> 3)

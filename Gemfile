@@ -27,6 +27,7 @@ gem "guard-middleman"
 
 # gems
 gem "draper", "~> 1"
+gem "httparty"
 
 group :development, :test do
   # Test gems
