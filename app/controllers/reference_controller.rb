@@ -1,5 +1,5 @@
 class ReferenceController < MiddlemanController
-  def self.collection
-    YAML.load_file("/data/references.yaml")
+  def index
+    @references = YAML.load_file(ENV['MM_ROOT'] + "/data/references.yaml")
   end 
 end

@@ -8,6 +8,9 @@ require './lib/render.rb'
 Routes.set_managers proxy_manager, ignore_manager
 Routes.proxy_routes
 
+# Helpers
+helpers PresentationHelper
+
 # Activate modules
 # activate :livereload
 # activate :sprockets
