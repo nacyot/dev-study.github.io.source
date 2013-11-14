@@ -1,0 +1,77 @@
+body {
+  margin-top: 70px;
+}
+.index-toc-fixed {
+  position: fixed;
+  right: 70px;
+  top: 90px;
+  width: 260px;
+  height: 350px;
+  border: 3px solid #bbb;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.presentation-detail-fixed {
+  position: fixed;
+  right: 100px;
+  top: 90px;
+  width: 600px;
+  height: 500px;
+  border: 1px solid black;
+}
+.description-main {
+  margin: 0px;
+  padding-top: 35px;
+  padding-left: 85px;
+  height: 500px;
+  border-bottom: 1px solid #ccc;
+  background-size: cover;
+}
+.description-main .heading {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 72px;
+  line-height: 130px;
+  letter-spacing: 1px;
+  font-weight: 900;
+  text-rendering: optimizelegibility;
+  transition: all 0.2s ease 0s;
+}
+.description-main .heading .ruby {
+  font-size: 0.4em;
+}
+.description-main .content {
+  font-size: 35px;
+  line-height: 55px;
+}
+.description-main p {
+  padding-top: 10px;
+  font-size: 30px;
+  line-height: 1.3em;
+}
+.description-main li {
+  padding-top: 10px;
+  font-size: 20px;
+  list-style-type: none;
+}
+.description-main li strong {
+  font-size: 35px;
+  color: green;
+}
+.description-main .search-box {
+  margin-top: 50px;
+  width: 500px;
+}
+.description-main .search-box input {
+  font-size: 35px;
+  height: 55px;
+}
+.description-main .search-box .btn {
+  font-size: 30px;
+}
+.bb-background {
+  background-image: url('/images/jangjin.png');
+}
+.rts-background {
+  background-image: url('/images/jangjin.png');
+}
