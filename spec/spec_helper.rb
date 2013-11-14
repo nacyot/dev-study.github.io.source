@@ -20,7 +20,6 @@ end
 
 Capybara.app = Middleman::Application.server.inst do
   root = File.expand_path(File.join(File.dirname(__FILE__), '..'))
-
   ENV['MM_ROOT'] = root
   set :root, root
   set :environment, :test 
