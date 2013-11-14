@@ -18,18 +18,3 @@
   documents: 
     - https://www.facebook.com/groups/dev.study.members/permalink/524246537669884/
     - https://trello.com/b/gCYzdtLv/50-rts-real-time-survey
-- title: vsvs
-  site: http://bigpie.ror.la/
-  repositories: 
-    - https://github.com/bigpie/ng_vsns/
-    - https://github.com/dev-study/vsns
-  documents: 
-    - https://www.facebook.com/notes/devstudymembers/v-sns-%EA%B8%B0%EB%B3%B8-features/503261126435092
-- title: 미션 - best
-  site: http://junheon-mission07.herokuapp.com/
-  repositories:
-    - https://github.com/dev-study/missions/tree/master/mission07/expert
-- title: 미션 - best
-  site: https://github.com/nacyot/stub
-  repositories: 
-    -http://stub-lapisan.herokuapp.com/

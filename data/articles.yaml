@@ -1,79 +1,120 @@
-- title: angularjs style guide (김대권 번역)
+- title: angularjs style guide
   link: https://github.com/nacyot/angularjs-style-guide/blob/master/README-ko-kr.md
-- title: Visualization-Mapping(김대권)
+  author: 김대권
+- title: Visualization-Mapping
   link: http://www.slideshare.net/ext/visualization-and-data-mapping
-- title: CollectiveCreavity (김성준 번역)
+  author: 김대권
+- title: CollectiveCreavity
   link: https://gist.github.com/victorkim/7055754
+  author: 김성준
 - title: "#406 Public Activity - RailsCasts (최효성 번역)"
   link: "http://railscasts.com/episodes/406-public-activity?language=ko&view=asciicast"
-- title: ubuntu에서 yo 설치하기(홍두희)
+  author: 최효성
+- title: ubuntu에서 yo 설치하기
   link: https://www.facebook.com/groups/dev.study.members/permalink/523736047720933/
-- title: heroku 에 mongodb, redis, postgresql 올리는 방법을 정리했습니다. (홍두희)
+  author: 홍두희
+- title: heroku 에 mongodb, redis, postgresql 올리는 방법을 정리했습니다.
   link: http://doohee323.blogspot.kr/2013/10/setting-mongodb-redis-on-heroku-step-by.html
-- title: grunt-shell을 추가하면 gruntfile.js에 (박창진)
+  author: 홍두희
+- title: grunt-shell을 추가하면 gruntfile.js에
   link: https://www.facebook.com/groups/dev.study.members/permalink/529526687141869/
-- title: warp_parameter(김충섭)
+  author: 박창진
+- title: warp_parameter
   link: https://www.facebook.com/groups/dev.study.members/permalink/529031650524706/
-- title: Angular + jQuery + Heroku (박창진)
+  author: 김충섭
+- title: Angular + jQuery + Heroku
   link: https://docs.google.com/document/d/1EBE7DyZDHqOQ09UGr-TCow4SpYgHAEmInbhwbkyrbFQ/edit?usp=sharing
-- title: NG 실무 학습사항 노트 (민동국)
+  author: 박창진
+- title: NG 실무 학습사항 노트
   link: http://dkmin-web-dev.blogspot.kr/2013/10/ng.html
-- title: Rails 자동화된 테스트 환경 구축 (Sprig, Guard, Rspec) (김대권)
+  author: 민동국
+- title: Rails 자동화된 테스트 환경 구축 (Sprig, Guard, Rspec)
   link: https://github.com/rorlab/bbapi/wiki/%EC%9E%90%EB%8F%99%ED%99%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95%28Spring,-Guard,-Rspec%29
-- title: Github 지원 서비스 세팅 (김대권)
+  author: 김대권
+- title: Github 지원 서비스 세팅
   link: https://github.com/rorlab/bbapi/wiki/Github-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A4%EC%A0%95
-- title: AngularJS 행아웃 공유 자료 (이성구)
+  author: 김대권
+- title: AngularJS 행아웃 공유 자료
   link: https://docs.google.com/document/d/1cU-kw4zGGx6uhFwbtCh6dq8OkUZqPP6zimJBSTLZAgI/edit?usp=sharing
-- title: rails-api 젬을 이용한 레일스 API 작성하기 (2) (최효성)
+  author: 이성구
+- title: rails-api 젬을 이용한 레일스 API 작성하기 (2)
   link: http://happyrails.rorlab.org/ko/posts/65
+  author: 최효성
 - title: angular ajax 관련해서 설정법
   link: https://www.facebook.com/groups/dev.study.members/permalink/517097711718100/
+  author:
 - title: AngularJS Resource
   link: https://www.facebook.com/groups/dev.study.members/permalink/515196318574906/
-- title: vsns 히로쿠 포팅 정리(홍두희)
+  author: 
+- title: vsns 히로쿠 포팅 정리
   link: https://docs.google.com/document/d/1I8lbxEQdun4UK34tHsFf80JI5y1t68APjZVeCwBWqBA/edit
-- title: 풀리퀘스트 쉽게 가져오기(김대권)
+  author: 홍두희
+- title: 풀리퀘스트 쉽게 가져오기
   link: https://www.facebook.com/groups/dev.study.members/permalink/512975928796945/
-- title: 이한국 김성준 이의범 조 rspec 퀴즈 + rspec 기본 세팅 (김성준, 김대권)
+  author: 김대권
+- title: 아이스크림 퀴즈 풀이
+  link:
+  author: 김대권
+- title: 이한국 김성준 이의범 조 rspec 퀴즈 + rspec 기본 세팅
   link: https://www.facebook.com/groups/dev.study.members/permalink/510406249053913/
+  author: 김성준
 - title: git workflow
   link: https://www.facebook.com/groups/dev.study.members/permalink/511680055593199/
+  author: 
 - title: wmd 에디터
-  link: https://www.facebook.com/groups/dev.study.members/permalink/511597925601412/
-  link: "https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fhschoidr%2Fvsns%2Ftree%2Fwmd_editor&h=-AQFMyUbO"
+  links: 
+    - https://www.facebook.com/groups/dev.study.members/permalink/511597925601412/
+    - "https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fhschoidr%2Fvsns%2Ftree%2Fwmd_editor&h=-AQFMyUbO"
+  author:
 - title: 최효성 박사님 과제
   link: https://www.facebook.com/groups/dev.study.members/permalink/510934125667792/
-- title: github 활용 시뮬레이션 (홍두희)
+  autho: 최효성
+- title: github 활용 시뮬레이션
   link: "https://docs.google.com/spreadsheet/ccc?key=0AjhDQWMGzvX1dHJxVngwZDFQb3FGNm1ZOW90TlMwcFE#gid=1"
+  author: 홍두희
 - title: Rspec 리소스
   link: https://www.facebook.com/groups/dev.study.members/permalink/510741645687040/
-- title: Gemfile 설명 (김대권)
+  author: 
+- title: Gemfile 설명
   link: https://www.facebook.com/groups/dev.study.members/permalink/505323529562185/
-- title: 터미널에서 sublime 실행(이한국)
+  author: 김대권
+- title: 터미널에서 sublime 실행
   link: https://www.facebook.com/groups/dev.study.members/permalink/503226223105249/
+  author: 이한국
 - title: masonry html로 적용
   link: https://www.facebook.com/groups/dev.study.members/permalink/502894349805103/
-- title: Sextant(이준헌)
+  author: 김대권
+- title: Sextant
   link: https://www.facebook.com/groups/dev.study.members/permalink/499903116770893/
-- title: 라이브 코딩에 사용된 Gemfile(김성준)
+  author: 이준헌
+- title: 라이브 코딩에 사용된 Gemfile
   link: https://gist.github.com/victorkim/2c4b416c9feef481ce72
-- title: 스크린캐스트 활용법 (이준헌)
-  link: 
+  author: 김성준
+- title: 스크린캐스트 활용법
+  links:
     - "https://gist.github.com/junheon/6220239#file-screencast-md"
     - https://www.facebook.com/groups/dev.study.members/permalink/498669383560933/
-- title: subl shortcut best 20 (민동국)
+  author: 김성준
+- title: subl shortcut best 20
   link: https://www.facebook.com/notes/devstudymembers/subl-shortcut-best-20/525864034174801
-- title: HTML Front-End 별천지 세미나 (민동국)
+  author: 민동국
+- title: HTML Front-End 별천지 세미나
   link: https://www.facebook.com/notes/devstudymembers/%ED%9B%84%EA%B8%B0-html5-front-end-%EB%B3%84%EC%B2%9C%EC%A7%80-%EC%84%B8%EB%AF%B8%EB%82%98/522317781196093
+  author: 민동국
 - title: Rails-tip
   link: https://www.facebook.com/notes/devstudymembers/rails-tip/514050495356155
-- title: Github 프로토콜 설정(김대권)
+- title: Github 프로토콜 설정
   link: https://www.facebook.com/groups/dev.study/permalink/228570350625042/
+  author: 김대권
 - title: "Nitrous 를 putty와 filezillar로 사용 | Dewey Hong' Blog"
   link: http://doohee323.blogspot.kr/2013/08/nitrous-putty-filezillar.html
+  author: 홍두희
 - title: Heroku 배포 관련 이슈
   link: https://www.facebook.com/groups/dev.study/permalink/239846076164136/
-- title: [현재 git repo 구조에서의 git 사용 테스트]
+  author:
+- title: 현재 git repo 구조에서의 git 사용 테스트
   link: https://docs.google.com/document/d/1M7EKfbzC61xeKLc1jjBAw_2OEe-5UNT_jeIkbXfbX28/edit
-- title: Cors (이준헌)
+  author:
+- title: Cors
   link: https://www.facebook.com/groups/dev.study/permalink/246298565518887/
+  author: 이준헌
