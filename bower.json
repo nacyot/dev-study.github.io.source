@@ -1,7 +1,10 @@
 {
-    "name": "dev.study.site",
-    "dependencies": {
-        "d3": "~3",
-        "bootstrap": "~3"
-    }
+  "name": "dev.study.site",
+  "dependencies": {
+    "bootstrap": "~3",
+    "angular": "*",
+    "angular-sanitize": "~1.2.0",
+    "jquery": "*",
+    "font-awesome": "~4.0.3"
+  }
 }
