@@ -1,0 +1,67 @@
+-# articles, presentations, hangouts, reference
+
+.index-toc-fixed
+  %h3
+    Table of contents
+  %ol
+    %li
+      %a{ href: "#projects" } Projects
+      %ul
+        %li
+          Budget Book
+        %li
+          Real Time Survey
+    %li
+      %a{ href: "#articles" } Articles
+    %li
+      %a{ href: "#presentations" } Presentations
+    %li
+      %a{ href: "#hangouts" } Hangouts
+    %li
+      %a{ href: "#references"} References
+
+.description-main.bb-background
+  %h1.heading 
+    Budget Book
+    %span.ruby 공동가계부
+  .row
+    .col-lg-8
+      %h2.content 
+
+.description-main.rts-background
+  %h1.heading 
+    Real Time Survey
+    %span.ruby 실시간 설문조사
+  .row
+    .col-lg-8
+      %h2.content 
+
+.container
+  %h2 Articles
+  - articles.each do |article|
+    %h4
+      %a{href: article["link"]}= article['title']
+    %h5= article["author"]
+
+  %h2 Presentations
+  - presentations.each do |presentation|
+    %h4
+      %a{href: presentation["slide"]}= presentation['title']
+    %h5
+      = presentation["date"]
+      = presentation["user"]
+
+  %h2 Hangouts
+  - hangouts.each do |hangout|
+    %h4
+      %a{href: hangout["video"]}= hangout['title']
+    %h5
+      = hangout["date"]
+      = hangout["user"]
+
+  %h2 References
+  - references.each do |user|
+    %h5= user['user']
+    -  user['links'].each do |ref|
+      %h4
+        %a{href: ref["link"]}= ref["title"]      

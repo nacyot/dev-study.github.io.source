@@ -1,0 +1,4 @@
+.container
+  - missions.each do |mission|
+    %h1
+      %a{href: mission["link"]}= mission["title"]

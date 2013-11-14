@@ -1,4 +1,6 @@
-- references = ReferenceController.collection
-- references.each do |user|
-  %h1= ref["title"]
-  = ref["link"]
+.container
+  - references.each do |user|
+    %h3= user['user']
+    -  user['links'].each do |ref|
+      %h4
+        %a{hrep: ref["link"]}= ref["title"]

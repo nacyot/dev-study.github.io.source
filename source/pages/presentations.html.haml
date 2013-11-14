@@ -1,0 +1,15 @@
+%div{"ng-controller" => "PresentationCtrl"}
+  .presentation-detail-fixed
+    = slid_dot_es_template
+    %div {{src}}
+
+  .container
+    %h2 Presentations 
+    - presentations.each_with_index do |presentation, index|
+      -# embed_presentation(presentation["slide"])
+      %h4
+        %a{ class: "presentation-#{index}", href: "#", "ng-click" => "changeSlide($event)", "data-slide" => presentation["slide"], "data-video" => presentation["video"], "data-link" => presentation["link"] }= presentation['title']
+      %h5
+        = presentation["date"]
+        = presentation["user"]
+

@@ -1,0 +1,14 @@
+!!!
+%html{"ng-app" => "devstudy"}
+  %head
+    %meta{"http-equiv" => "Content-Type", "content" => "text/html; charset=UTF-8"}
+    %title Dev.study
+    = stylesheet_link_tag    "all", :media => "all"
+    = javascript_include_tag "all"
+  %body
+    = partial "layouts/header"
+    .row
+      .col-lg-12
+        = yield
+    = partial "layouts/footer"
+

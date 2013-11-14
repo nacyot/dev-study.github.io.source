@@ -1,0 +1,8 @@
+.container
+  %h2 Hangouts
+  - hangouts.each do |hangout|
+    %h4
+      %a{href: hangout["video"]}= hangout['title']
+    %h5
+      = hangout["date"]
+      = hangout["user"]
