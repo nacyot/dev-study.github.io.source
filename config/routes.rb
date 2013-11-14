@@ -3,7 +3,7 @@ class Routes < MiddlemanRoutes
     register_collection_proxy PostController, "post_proxy"
   end
   
-  def self.controller_routes
+  def self.controller_routes 
     {
       "./source/index.html.haml" => { controller: MainController, action: "index" },
       "./source/pages/references.html.haml" => { controller: ReferenceController, action: "index" },
