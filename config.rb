@@ -17,7 +17,7 @@ helpers PresentationHelper
 
 # Directory configure
 sprockets.append_path File.join 'app', 'assets', 'javascripts'
-set :css_dir, '.stylesheets'
+set :css_dir, './stylesheets'
 set :js_dir, './javascripts'
 set :images_dir, './images'
 
