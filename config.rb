@@ -20,7 +20,6 @@ sprockets.append_path File.join 'app', 'assets', 'javascripts'
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
-set :http_prefix, ''
 
 # Markdown configure
 set :markdown_engine, :redcarpet
@@ -46,9 +45,5 @@ configure :build do
   # activate :smusher
 
   # Or use a different image path
-    # set :http_prefix, "/Content/images/"
-
-  # set :http_prefix, "./"
-
 end
 
