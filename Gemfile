@@ -19,6 +19,7 @@ gem "haml"
 gem 'therubyracer'
 gem "less"
 gem "redcarpet"
+gem "pygments.rb"
 
 # Watch gems
 # gem "shotgun"
