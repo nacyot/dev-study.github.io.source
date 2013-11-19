@@ -1,4 +1,4 @@
-# 정리가 많이 필요한 문서들
+# 정리가 필요한 문서들
 - title: angularjs HTML5모드에서 mod_rewrite 적용하기 (이한국, 김대권, 이준헌)
   link: https://www.facebook.com/groups/dev.study.members/permalink/540196312741573/
 - title: angularjs facctory vs service
@@ -19,6 +19,12 @@
   link: https://www.facebook.com/groups/dev.study/permalink/234955639986513/
 - title: Ruby Require 이슈 (홍두희)
   link: https://www.facebook.com/groups/dev.study/permalink/236393136509430/
+- title: Heroku 배포 관련 이슈
+  link: https://www.facebook.com/groups/dev.study/permalink/239846076164136/
+- title: git workflow
+  link: https://www.facebook.com/groups/dev.study.members/permalink/511680055593199/
+- title: 최효성 박사님 과제
+  link: https://www.facebook.com/groups/dev.study.members/permalink/510934125667792/
 
 # 바로 정리 가능한 것들
 - title: Git add . vs commit (민동국, 김대권)
@@ -35,3 +41,4 @@
     - https://www.facebook.com/groups/dev.study/permalink/235137969968280/
 - title: 언어 나온 년도 (홍두희)
   link: https://www.facebook.com/groups/dev.study.members/permalink/503659089728629/
+
