@@ -1,0 +1,20 @@
+.row
+  .col-lg-12.col-md-12
+    .article-title
+      %h1= article['title']
+
+
+.row
+  .col-lg-2.col-md-2
+  .col-lg-8.col-md-8
+    .article-content
+      .info
+        %span.date
+          = article.date_html
+        %span.tags
+          = article.tags_html
+        %span.author
+          = article.author_html
+      .body
+        = markdown_engine.render IO.read(article['source'])
+  .col-lg-2.col-md-2

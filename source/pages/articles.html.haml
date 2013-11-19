@@ -1,6 +1,20 @@
-.container
-  %h2 Articles
-  - articles.each do |article|
-    %h4
-      %a{href: article["link"]}= article['title']
-    %h5= article["author"]
+.row
+  .col-lg-2.col-md-2
+  .col-lg-8.col-md-8
+    .articles
+      .article-list
+        %h1 
+          %i.fa.fa-archive
+          Articles
+        - articles.each do |article|
+          .article-item
+            %div.article-link
+              = article.link_icon_html
+              %span.link-text= article.link_html
+            %div.article-info
+              = article.date_html
+              %br/
+              = article.author_html
+              %br/
+              = article.tags_html
+  .col-lg-2.col-md-2

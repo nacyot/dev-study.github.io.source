@@ -22,6 +22,14 @@
 
 .description-main.bb-background
   %h1.heading 
+    Dev.Study 2.0
+    %span.ruby 
+  .row
+    .col-lg-8
+      %h2.content 
+
+.description-main.bb-background
+  %h1.heading 
     Budget Book
     %span.ruby 공동가계부
   .row
@@ -40,7 +48,7 @@
   %h2 Articles
   - articles.each do |article|
     %h4
-      %a{href: article["link"]}= article['title']
+      %a{href: (article['target'] ? article['target'] : article["link"])}= article['title']
     %h5= article["author"]
 
   %h2 Presentations
