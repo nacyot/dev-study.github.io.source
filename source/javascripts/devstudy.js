@@ -9,6 +9,7 @@ devstudy.controller('PresentationCtrl', function ($scope, $sce) {
   };
   
   $scope.changeSlide = function($event){
+    alert($($event.target).attr("data-slide"));
     $scope.src = $($event.target).attr("data-slide");
   };
 

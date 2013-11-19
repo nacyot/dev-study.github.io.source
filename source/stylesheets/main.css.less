@@ -1,5 +1,7 @@
 body{
     margin-top: 70px;
+    font-size: 15px;
+    line-height: 1.5em;
 }
 
 .index-toc-fixed{
@@ -9,18 +11,30 @@ body{
     width: 260px;
     height: 350px;
     border: 3px solid #bbb;
-    
     padding: 20px;
-
     background-color: #fff
 }
 
+.sidebar-nav-fixed {
+    position:fixed;
+    width: 37%;
+    height: 225px;
+    border: 1px solid black;
+}
+ 
+@media (max-width: 860px) {
+    .sidebar-nav-fixed {
+        position:static;
+        width: auto;
+    }
+}
+
 .presentation-detail-fixed{
-    position: fixed;
-    right: 100px;
-    top: 90px;
-    width: 600px;
-    height: 500px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 260px;
+    height: 350px;
     border: 1px solid black;
 }
 
@@ -93,4 +107,8 @@ body{
 
 .rts-background {
   background-image: url('/images/jangjin.png');
+}
+
+.text-middle{
+  vertical-align: middle;
 }

@@ -1,5 +1,11 @@
 /*
  *= require components/bootstrap/dist/css/bootstrap.min
+ *= require components/font-awesome/css/font-awesome
+ *= require components/bootflat/css/bootflat
+ *= require components/bootflat/css/bootflat-extensions
+ *= require components/bootflat/css/bootflat-square
  *= require_self
  *= require main
+ *= require article
+ *= require syntax/emacs.css
 */
