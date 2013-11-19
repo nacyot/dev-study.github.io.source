@@ -7,7 +7,13 @@ class MiddlemanController
   def proxy_collection(collection, path, template, local_variable_name, opts={})
     collection.each do |item|
       opts[:locals] = opts[:locals] ? opts[:locals].merge({local_variable_name.to_sym => item}) : {local_variable_name.to_sym => item}
-      item_path = path.sub(/\#(.*?)\#/){ item.send($1) }
+      item_path = path.sub(/\#(.*?)\#/) do
+        if item.respond_to? $1
+          item.send($1)
+        else
+          item[$1]
+        end
+      end
       MiddlemanRoutes.register_proxy item_path, template, opts
     end
     MiddlemanRoutes.register_ignore template

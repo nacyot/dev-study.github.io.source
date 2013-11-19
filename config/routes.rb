@@ -1,6 +1,8 @@
 class Routes < MiddlemanRoutes
   def self.proxy_routes
-    register_collection_proxy PostController, "post_proxy"
+    # register_collection_proxy PostController, "post_proxy"
+    register_collection_proxy ArticleController, "articles_proxy"
+    register_collection_proxy PresentationController, "presentations_proxy"
   end
   
   def self.controller_routes 

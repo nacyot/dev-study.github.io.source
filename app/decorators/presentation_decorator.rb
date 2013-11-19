@@ -1,0 +1,2 @@
+class PresentationDecorator < SimpleDelegator
+end

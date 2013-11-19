@@ -10,6 +10,7 @@ Routes.proxy_routes
 
 # Helpers
 helpers PresentationHelper
+helpers MarkdownHelper
 
 # Activate modules
 # activate :livereload
@@ -24,6 +25,13 @@ set :images_dir, 'images'
 # Markdown configure
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
+set :haml, { ugly: true }
+
+# Another configure
+set :relative_links, true
+
+# Layout
+page "articles/*", :layout => :articles_layout
 
 # Build-specific configuration
 configure :build do
