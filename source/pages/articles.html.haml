@@ -1,20 +1,3 @@
-.row
-  .col-lg-2.col-md-2
-  .col-lg-8.col-md-8
-    .articles
-      .article-list
-        %h1 
-          %i.fa.fa-archive
-          Articles
-        - articles.each do |article|
-          .article-item
-            %div.article-link
-              = article.link_icon_html
-              %span.link-text= article.link_html
-            %div.article-info
-              = article.date_html
-              %br/
-              = article.author_html
-              %br/
-              = article.tags_html
-  .col-lg-2.col-md-2
+- content_for(:title, "Dev.Study :: 기사 목록")
+
+= partial "items", locals: {items: articles, header: "Articles"}

@@ -1,17 +1,5 @@
-.container{"ng-controller" => "PresentationCtrl"}
-  .row
-    .col-lg-6.col-mg-6.col-sm-6
-      %h2 Presentations 
-      - presentations.each_with_index do |presentation, index|
-        -# embed_presentation(presentation["slide"])
-        %h4
-          %a{ class: "presentation-#{index}", href: "#", "ng-click" => "changeSlide($event)", "data-slide" => presentation["slide"], "data-video" => presentation["video"], "data-link" => presentation["link"] }= presentation['title']
-        %h5
-          = presentation["date"]
-          = presentation["user"]
+- content_for(:title, "Dev.Study :: 프레젠테이션 목록")
 
-    -# .col-lg-6.col-mg-6.col-sm-6
-    -#   .sidebar-nav-fixed
-    -#     = slid_dot_es_template
-    -#     %div {{src}}
+= partial "items", locals: {items: presentations, header: "Presentations"}
+
 

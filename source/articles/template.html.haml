@@ -1,8 +1,9 @@
+- content_for(:title, "Dev.Study :: " + article['title'] + " by " + article['author'])
+
 .row
   .col-lg-12.col-md-12
     .article-title
       %h1= article['title']
-
 
 .row
   .col-lg-2.col-md-2
@@ -17,4 +18,18 @@
           = article.author_html
       .body
         = markdown_engine.render IO.read(article['source'])
+        - if article.comments.length > 0
+          %hr 
+        .panel.panel-default.comments
+          - article.comments.each do |comment|
+            .panel-heading.comment
+              %i.fa.fa-user
+              = comment['name']
+              %i.fa.fa-calendar
+              = comment['date']
+            .panel-body
+              = comment['body']
+    %hr
+    = partial "../partials/comment"
   .col-lg-2.col-md-2
+
