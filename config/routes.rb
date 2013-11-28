@@ -3,6 +3,8 @@ class Routes < MiddlemanRoutes
     # register_collection_proxy PostController, "post_proxy"
     register_collection_proxy ArticleController, "articles_proxy"
     register_collection_proxy PresentationController, "presentations_proxy"
+    register_collection_proxy HangoutController, "hangouts_proxy"
+    register_collection_proxy TagController, "tags_proxy"
   end
   
   def self.controller_routes 

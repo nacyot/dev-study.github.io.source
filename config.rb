@@ -11,6 +11,7 @@ Routes.proxy_routes
 # Helpers
 helpers PresentationHelper
 helpers MarkdownHelper
+helpers LinkHelper
 
 # Activate modules
 # activate :livereload
@@ -31,7 +32,13 @@ set :haml, { ugly: true }
 set :relative_links, true
 
 # Layout
-page "articles/*", :layout => :articles_layout
+page "pages/*", :layout => :articles_layout
+page "tags/*", :layout => :articles_layout
+# page "articles/*", :layout => :articles_layout
+# page "hangouts/*", :layout => :articles_layout
+# page "presentations/*", :layout => :articles_layout
+
+page "/sitemap.xml", :layout => false
 
 # Build-specific configuration
 configure :build do

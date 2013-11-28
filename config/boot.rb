@@ -10,8 +10,9 @@ require 'action_controller'
 require './config/connect_database.rb'
 
 # Autoload app directory
+Dir[File.join("./app/helpers**/*.rb")].each {|file| require file } 
 Dir[File.join("./app/models**/*.rb")].each {|file| require file }
 Dir[File.join("./app/decorators**/*.rb")].each {|file| require file }
 require './app/controllers/application_controller.rb'
 Dir[File.join("./app/controllers**/*.rb")].each {|file| require file }
-Dir[File.join("./app/helpers**/*.rb")].each {|file| require file } 
+

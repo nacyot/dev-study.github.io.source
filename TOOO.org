@@ -1,7 +1,0 @@
-* 이름 - 이메일 맵핑
-* Gravatar 연동
-* Project 소개문
-* 특별 기고
-** Middleman 소개
-** Rails 시작하기
-

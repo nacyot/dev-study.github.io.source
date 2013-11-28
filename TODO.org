@@ -1,0 +1,37 @@
+* Project / Index / About
+** Project 소개문
+** TODO README 파일 만들기
+** TODO RSS
+** TODO Title 연동
+** TODO SiteMap 생성
+
+* github eco system에 연동
+** WAIT 소스코드 올리기
+** WAIT Travis 이용해서 자동 빌드 + 업로드
+** WAIT Code Climate
+
+* SOMEDAY Gravatar 연동
+* SOMEDAY 이름 - 이메일 맵핑
+
+* 특별 기고???
+** SOMEDAY Middleman 소개
+** SOMEDAY Rails 시작하기
+
+* 기타
+** DONE relative link in tags 링크
+
+* 디자인
+** SOMEDAY 모바일 최적화
+  
+* Done
+** DONE 메인 페이지
+** DONE Github fork 리본 달기
+** DONE width 살짝 넘치는 문제 해결
+** DONE 예제 테스트 삭제
+
+** DONE Analytics
+** DONE disque
+** DONE tag page
+** DONE 링크 레이아웃 고치기
+** DONE presentation / hangout 페이지 만들기
+** DONE 각 페이지 템플릿 분리
