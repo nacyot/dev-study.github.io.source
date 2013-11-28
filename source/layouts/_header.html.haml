@@ -1,0 +1,24 @@
+%nav.navbar.navbar-inverse.navbar-fixed-top{ role: "navigation" }
+  %div.navbar-header
+    = link_to "Dev.Study.Archive", "/index.html", class: "navbar-brand"
+  %div.collapse.navbar-collapse
+    %ul.nav.navbar-nav
+      %li
+        = link_to "<i class='fa fa-archive'></i> Articles",  "/pages/articles.html"
+      %li
+        = link_to "<i class='fa fa-video-camera'></i> Presentations", "/pages/presentations.html"
+      %li
+        = link_to "<i class='fa fa-play'></i> Hangouts", "/pages/hangouts.html"
+      -# %li
+      -#   %i.fa.fa-
+      -#   = link_to "Missions", "/pages/missions.html", :relative => true 
+      -# %li
+      -#   = link_to "<i class='fa fa-sitemap'></i> Projects", "/pages/projects.html" 
+      %li
+        = link_to "<i class='fa fa-external-link'></i> References", "/pages/references.html"
+      -# %li
+      -#   = link_to "<i class='fa fa-comment'></i> About", "/pages/about.html"
+      %li
+        %a{href: "https://www.facebook.com/groups/dev.study/"} 
+          %i.fa.fa-facebook  
+          Facebook Group

@@ -1,0 +1,233 @@
+** 김성준
+   Layouts and Rendering in Rails — Ruby on Rails Guides
+   http://guides.rubyonrails.org/layouts_and_rendering.html
+** 김재진
+   Create a new Fiddle - jsFiddle 
+   http://jsfiddle.net/
+** 이준헌
+   Callabo!
+   http://www.clbnow.com/try
+   Adding Real-Time To A RESTful Rails App - Liam Kaufman 
+   http://liamkaufman.com/blog/2013/02/27/adding-real-time-to-a-restful-rails-app/
+   [cookbook] Github + Trello 연동하기
+   http://nodeqa.com/nodejs_ref/89
+   버티컬 SNS란
+   https://trello.com/c/B99XUJdO/58-sns
+   오픈소스 라이센스
+   http://nowhunt.tistory.com/2
+   https://www.olis.or.kr/ossw/license/license/list.do
+
+** 이강훈
+   Workflow 기반 실시간 스트리밍 데이터 수집/분석 플랫폼 최규민
+   http://www.slideshare.net/ssuser2fe594/2013-workflow
+   페이스북, 오픈소스 DW 엔진 '프레스토' 공개…300PB 데이터 분석용 - 테크수다
+   http://www.techsuda.com/archives/2224
+   Opening type - CodePen
+   http://codepen.io/diegopardo/full/GqEho
+   충격 고로케
+   http://hot.coroke.net/
+   지도의 힘...구글 아이디어스 관심집중 - 지디넷코리아
+   http://www.zdnet.co.kr/news/news_view.asp?artice_id=20131030142350
+   미래부, ICT R&D 중장기 전략 확정 상세보기|보도자료 | 미래창조과학부 
+   http://www.msip.go.kr/www/brd/m_211/view.do?seq=878
+   Bmg visual storming kit 2013_ver6.0
+   http://www.slideshare.net/human5804/bmg-visual-storming-kit-2013ver60
+   https://trello.com/b/9VK9XPXg/01-2-sd-specification
+   Types | Semantic UI
+   http://semantic-ui.com/introduction/types.html
+   New gem released: Futuroscope! - Codegram
+   http://blog.codegram.com/2013/5/new-gem-released-futuroscope
+
+   http://mobicon.tistory.com/m/post/view/id/281
+   chrome-three-sentences
+   https://github.com/xissy/chrome-three-sentences
+   Github를 이용하는 전체 흐름 이해하기 #1 :: Outsider's Dev Story
+   http://blog.outsider.ne.kr/865
+   http://blog.outsider.ne.kr/866
+   Adding Real-Time To Rails With Socket.IO, Node.js and Backbone.js
+   (With Demo) - Liam Kaufman
+   http://liamkaufman.com/blog/2012/02/25/adding_real-time_to_rails_with_socket.IO_nodejs_and_backbonejs_with_demo/
+   hojoki
+   http://hojoki.com/
+
+   http://guides.rubygems.org/make-your-own-gem/
+   Mural.ly - Google Docs for Visual People
+   https://mural.ly/
+   Trello로 효율적으로 협업하기,
+   http://goo.gl/f7oSnc
+   Heroku
+   https://www.heroku.com/
+   Ruby Hacking Guide
+   http://ruby-hacking-guide.github.io/
+   NHN NEXT - 일반 사용자용 SW를 중심으로 변화되는 SW산업의 미래
+   http://www.youtube.com/watch?v=-73cDPqlYeA
+   Getting Real (KOR)
+   http://jaehyun.kr/gettingreal-kor
+   IT 기술 업계의 일과 생활 불균형에 대해 
+   http://blog.naver.com/homygodx/10174384930
+   Code & Conquer 
+   http://codeandconquer.co/
+   Why Use Twitter Bootstrap? Because I Said So
+   http://www.queness.com/post/14057/why-use-bootstrapa-because-i-said-so
+** 이의범
+   One Month Rails
+   https://onemonthrails.com/
+   Angular directives for Twitter's Bootstrap
+   http://angular-ui.github.io/bootstrap/
+   [Smart Visualization] AngularJS Framework 시작하기 - 3
+   http://mobicon.tistory.com/352
+   famo.us
+   http://famo.us/
+   죽여주는 오픈소스 어드민툴 13종
+   http://www.ciokorea.com/slideshow/16067
+   요즘 뜨는 오픈소스 13선
+   http://www.ciokorea.com/slideshow/16565
+   AngularJS 디펜던시 인젝션(DI) 이해하기 
+   http://blog.aliencube.org/post/64205711454/understanding-dependency-injection-on-angularjs
+   n
+   https://github.com/visionmedia/n
+   :: 그냥 삽살이 - 내일의 바람이 불어야 모레의 해가 뜬다 :: GIT
+   서브모듈사용법 - 추가, 사용, 제거, 업데이트
+   http://sapsaldog.tistory.com/entry/GIT-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B6%94%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%9C%EA%B1%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8   
+   git 치트시트
+   http://j.mp/1eg6eWf
+   Sublimerge: The diff and merge tool for Sublime Text 2 and 3
+   http://www.sublimerge.com/
+   다음, 앨범형 SNS앱 '위드' 출시 - 지디넷코리아
+   http://www.zdnet.co.kr/news/news_view.asp?artice_id=20130910174058
+   TDD, BDD, RSpec
+   http://www.slideshare.net/NasceniaIT/tdd-bdd-r-spec
+** 김한기
+   GDG DevFest Korea
+   https://sites.google.com/site/gdgdevfestkorea/
+** 최효성
+   레일스에서 환경변수를 쉽게 관리하는 방법
+   http://bit.ly/1fYdyFE
+   Mavericks 설치 후 레일스 개발환경 설정하기
+   http://dean.io/setting-up-a-ruby-on-rails-development-environment-on-mavericks/
+   AngularJS Learning
+   https://github.com/jmcunningham/AngularJS-Learning
+   [AngularJS] 배우는 방법 & 기본 개념 잡기
+   http://mobicon.tistory.com/281
+   Up and running with AngularJS & Rails - StaunchRobots dev blog
+   http://staunchrobots.com/blog/blog/2013/10/14/up-and-running-with-angularjs-and-rails/
+   Screenhero
+   http://screenhero.com/
+   
+   http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=aaf8b4fd80&e=e4f41c79a0
+   active_model_serializers
+   https://github.com/rails-api/active_model_serializers
+   How to integrate AngularJS with Rails 4 - Blog - Shelly Cloud
+   https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4
+   ng-newsletter
+   http://www.ng-newsletter.com/posts/directives.html
+   RESTful API authentication - Cocoa Hunter 
+   http://www.cocoahunter.com/blog/2013/02/13/restful-api-authentication/
+   Angularjs 공식 동영상
+   http://www.youtube.com/user/angularjs
+   JSON Formatter & Validator
+   http://jsonformatter.curiousconcept.com/
+   jwo/registrations_controller.rb
+   https://gist.github.com/jwo/1255275
+   Automating Your Front-End Workflow With Yeoman 1.0
+   http://youtu.be/iUQ1fvdO9GY
+   Gitting to Know You - 1200 - Pull Requests Part 1 
+   http://youtu.be/XogN0Q4sb9o
+   summernote-rails | RubyGems.org | your community gem host
+   https://www.facebook.com/groups/dev.study.members/permalink/503659089728629/
+   Downloads - macvim - Vim for the Mac - Google Project Hosting
+   http://code.google.com/p/macvim/downloads/list
+
+** 김대권
+   Docker
+   https://www.docker.io/
+   http://stackoverflow.com/questions/5508110/why-is-this-program-erroneously-rejected-by-three-c-compilers/5509143
+   https://help.github.com/articles/closing-issues-via-commit-messages
+   #308 Oh My ZSH - RailsCasts
+   http://railscasts.com/episodes/308-oh-my-zsh
+** 김성준
+   websocket-rails 데모
+   http://ws42-demo.pogoapp.com/
+   https://hub.pogoapp.com/demo/ws42
+** 홍두희
+   [발 번역] Staircar: Redis-powered notifications
+   http://charsyam.wordpress.com/2012/03/20/%EB%B0%9C-%EB%B2%88%EC%97%AD-staircar-redis-powered-notifications/
+   [AngularJS] Think in AngularJS 
+   http://mobicon.tistory.com/327
+   A web app in 10 minutes using Play framework 
+   http://www.youtube.com/watch?v=kXImTUlHwAo
+   AngularJS Fundamentals In 60-ish Minutes
+   http://www.youtube.com/watch?v=i9MHigUZKEM
+** 이성구
+   https://github.com/preston/railroady
+** 민동국
+   Animation in AngularJS by Gias Kay Lee
+   http://slid.es/gsklee/animation-in-angularjs
+   Angularjs batarang
+   http://youtu.be/q-7mhcHXSfM
+   https://chrome.google.com/webstore/search/angularjs
+   [Yeoman] v1.0 으로 AngularJS 개발환경 구성하기   
+   http://mobicon.tistory.com/274
+   git 을 쉽게 이용하는 방법 git-flow
+   http://codesherpas.com/screencasts/on_the_path_gitflow.mov
+   모바일 홈페이지 활용 전략
+   http://saedu.naver.com/adinfo/column/read.nhn?seq=81&catg
+   oh-my-zsh
+   https://github.com/robbyrussell/oh-my-zsh
+** 임경호
+   ABOUT | SAMSUNG SMART APP CHALLENGE 2013 for GALAXY NOTE
+   http://developer.samsung.com/ssac2013/note/aboutTheChallenge.do
+** 김충섭
+   Syncing a fork · GitHub Help
+   https://help.github.com/articles/syncing-a-fork
+   AngularJS HTML5 Mode with Yeoman | ericduran 
+   http://ericduran.io/2013/05/31/angular-html5Mode-with-yeoman/
+** 장재휴
+   Deal with users authentication in an AngularJS web app 
+   http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app#comment-915096518
+** 최완복
+   egghead
+   http://www.egghead.io/
+   zsh용 PowerlineFont symbol
+   https://github.com/Lokaltog/powerline/raw/develop/font/PowerlineSymbols.otf
+   I'm learning how to code with @onemonthrails!
+   https://onemonthrails.com/try
+** 김진영
+   rails-erd
+   http://rails-erd.rubyforge.org/install.html
+   YADR
+   https://github.com/andrwj/YADR
+   Popular Coding Convention on Github
+   http://sideeffect.kr/popularconvention/#ruby
+   터보링크(Turbolinks)와 레일스 4.0 | 유스풀패러다임
+   http://usefulparadigm.com/2013/06/28/turbolinks-and-rails-4/
+   web framework 성능 벤치마크 비교 
+   http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=query
+** 김수혁
+   Splunk Overview
+   http://www.slideshare.net/Splunk/splunk-overview-16281396
+   Chrome Logger - Server side application debugging
+   http://craig.is/writing/chrome-logger
+   git - 간편 안내서 - 어렵지 않아요!
+   http://rogerdudler.github.io/git-guide/index.ko.html
+   groupcache
+   https://github.com/golang/groupcache
+** 성현준
+   Ruby on Rails 4.0 킨들
+   http://www.amazon.com/dp/B00E25KVLW/ref=pe_245070_24466410_M1T1DP
+** 김한기
+   Backbone.js
+   http://iwidgets.kr/document/backbonejs.html
+** 박칭진
+   Everyday Rails Testing with RSpec: Get advance access to my new book now 
+   https://www.facebook.com/trucrazevil?hc_location=stream
+** 이범재
+   프로그램 얼리 어답터 - Windows 에서 가상머신(Vagrant)으로 Ruby on rails 개발환경 만들기
+   http://scloudy.tistory.com/30
+   스토리 텔링
+   http://wiki.commres.org/pds/Project_7eNrf2010/_1.pdf
+   tubesock
+   https://github.com/ngauthier/tubesock
+   real time rails: Slides
+   http://slid.es/bcardarella/real-time-rails/fullscreen
+   http://www.youtube.com/watch?v=fOI3EjsUEww

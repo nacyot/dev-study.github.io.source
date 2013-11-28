@@ -1,0 +1,8 @@
+.container
+  - missions.reverse.each do |mission|
+    .panel.panel-default
+      .panel-heading
+        %a{href: mission["link"]}= mission["title"]
+      .panel-body
+        = markdown_engine.render mission["description"] if mission["description"]
+

@@ -1,0 +1,17 @@
+- content_for(:title, "Dev.Study :: 참고자료(링크) 목록")
+
+.articles
+  .article-list
+    %h1 
+      %i.fa.fa-external-link
+      References
+    - references.each do |user|
+      - user['links'].each do |ref|
+        .reference
+          = link_icon_html(ref["link"], "fa-2x")
+          %span.reference-title
+            %a{href: ref["link"]}= ref["title"]
+          %span.reference-info
+            = " ... "
+            %i.fa.fa-user
+            = user['user']

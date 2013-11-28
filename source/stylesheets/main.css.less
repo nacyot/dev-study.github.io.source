@@ -1,0 +1,156 @@
+body{
+    margin-top: 70px;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+
+.index{
+    p{
+        font-size: 1em;
+        line-height: 1.7em;
+        text-align: justify;
+    }
+    
+    h1{
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 30px;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        text-transform: uppercase;
+        font-size: 40px;
+        letter-spacing: 1px;
+        font-weight: 900;
+        text-rendering: optimizelegibility;
+        transition: all 0.2s ease 0s;
+    }
+}
+
+.footer{
+    margin-top: 60px;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.row{
+    margin: 0;
+}
+
+.index-toc-fixed{
+    position: fixed;
+    right: 70px;
+    top: 90px;
+    width: 260px;
+    height: 350px;
+    border: 3px solid #bbb;
+    padding: 20px;
+    background-color: #fff
+}
+
+.sidebar-nav-fixed {
+    position:fixed;
+    width: 37%;
+    height: 225px;
+    border: 1px solid black;
+}
+ 
+@media (max-width: 860px) {
+    .sidebar-nav-fixed {
+        position:static;
+        width: auto;
+    }
+}
+
+.sidebar{
+  margin-left: -250px;
+  left: 250px;
+  width: 250px;
+  background: #000;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.4s ease 0s;
+}
+
+.presentation-detail-fixed{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 260px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+.description-main{
+    margin: 0px;
+    padding-top: 35px;
+    padding-left: 85px;
+    height: 500px;
+    
+    border-bottom: 1px solid #ccc;
+    
+    .heading{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        text-transform: uppercase;
+        font-size: 72px;
+        line-height: 130px;
+        letter-spacing: 1px;
+        font-weight: 900;
+        text-rendering: optimizelegibility;
+        transition: all 0.2s ease 0s;
+
+        .ruby{
+            font-size: 0.4em;
+        }
+    }
+    
+    .content{
+        font-size: 35px;
+        line-height: 55px;
+    }
+
+    background-size: cover;
+
+    p{
+        padding-top: 10px;
+        font-size: 30px;
+        line-height: 1.3em;
+    }
+
+    li{
+        padding-top: 10px;
+        font-size: 20px;
+        list-style-type: none;
+    }
+
+    li strong{
+        font-size: 35px;
+        color: green;    
+    }
+    
+    .search-box{
+        margin-top: 50px;
+        width: 500px;
+        
+        input{
+            font-size: 35px;
+            height: 55px;
+        }
+
+        .btn{
+            font-size: 30px;
+        }
+    }
+
+}
+
+.bb-background {
+    // background-image: url('/images/jangjin.png');
+}
+
+.rts-background {
+    // background-image: url('/images/jangjin.png');
+}
+
+.text-middle{
+  vertical-align: middle;
+}

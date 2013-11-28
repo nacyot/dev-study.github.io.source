@@ -1,0 +1,28 @@
+- content_for(:title, "Dev.Study :: " + presentation['title'] + " by " + presentation['author'])
+
+.row
+  .col-lg-12.col-md-12
+    .article-title
+      %h1= presentation['title']
+
+.row
+  .col-lg-2.col-md-2
+  .col-lg-8.col-md-8
+    .article-content
+      .info
+        %span.date
+          = presentation.date_html
+        %span.tags
+          = presentation.tags_html
+        %span.author
+          = presentation.author_html
+      .body
+        .slide
+          = presentation.slide_html
+        .video
+          = presentation.video_html
+        .reference
+          = presentation.references_html
+    %hr
+    = partial "../partials/comment"
+  .col-lg-2.col-md-2

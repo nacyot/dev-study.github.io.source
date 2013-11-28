@@ -1,0 +1,35 @@
+- title: 공동가계부
+  repositories: 
+    - https://github.com/rorlab/bbapi
+    - https://github.com/subicura/bb-ng/
+  documents: 
+    - https://docs.google.com/document/d/1pHGNMvp1v0tWdnFYUC0rHlC4-pKSPW-LuiP_zqDNRxs/edit?usp=sharing
+    - https://docs.google.com/document/d/19JbQMVPzlTCM-AyPAH5x3wPdCVCZEAiyW_qVvUT9b8g/edit
+    - https://docs.google.com/spreadsheet/ccc?key=0An8JvoIxrFCDdEFWbXlETElBNndoR2drQjF4T3FMSHc&usp=sharing
+    - https://docs.google.com/document/d/1uYr9J0I0YBevdyiNqU65ITVf6FL9QAGY44V7jFPXBNU/edit?usp=sharing
+    - https://www.facebook.com/groups/dev.study.members/permalink/525937564167448/
+- title: NewQ
+  repositories: 
+    - https://github.com/NewsQ
+    - https://github.com/NewsQ/NewsQ_Rails
+- title: RTS
+  repositories:
+    - https://github.com/dev-study/realtime_survey
+  documents: 
+    - https://www.facebook.com/groups/dev.study.members/permalink/524246537669884/
+    - https://trello.com/b/gCYzdtLv/50-rts-real-time-survey
+- title: vsvs
+  site: http://bigpie.ror.la/
+  repositories: 
+    - https://github.com/bigpie/ng_vsns/
+    - https://github.com/dev-study/vsns
+  documents: 
+    - https://www.facebook.com/notes/devstudymembers/v-sns-%EA%B8%B0%EB%B3%B8-features/503261126435092
+- title: 미션 - best
+  site: http://junheon-mission07.herokuapp.com/
+  repositories:
+    - https://github.com/dev-study/missions/tree/master/mission07/expert
+- title: 미션 - best
+  site: https://github.com/nacyot/stub
+  repositories: 
+    -http://stub-lapisan.herokuapp.com/

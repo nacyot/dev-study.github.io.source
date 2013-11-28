@@ -1,0 +1,17 @@
+.articles
+  .article-list
+    %h1 
+      %i.fa.fa-play
+      = header
+    - items.each do |item|
+      .article-item
+        %div.article-link
+          = item.icon_html
+          %span.link-text= item.link_html(item.link)
+        %div.article-info
+          = item.date_html
+          %br/
+          = item.author_html
+          %br/
+          = item.tags_html
+

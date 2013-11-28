@@ -1,0 +1,112 @@
+** angularjs HTML5모드에서 mod_rewrite 적용하기 (이한국, 김대권, 이준헌)
+   https://www.facebook.com/groups/dev.study.members/permalink/540196312741573/
+** angularjs style guide (김대권 번역)
+   https://github.com/nacyot/angularjs-style-guide/blob/master/README-ko-kr.md
+** angularjs facctory vs service
+   https://www.facebook.com/groups/dev.study.members/permalink/537991652962039/
+** Visualization-Mapping(김대권)
+   http://www.slideshare.net/ext/visualization-and-data-mapping
+** CollectiveCreavity (김성준 번역)
+   https://gist.github.com/victorkim/7055754
+** #406 Public Activity - RailsCasts (최효성 번역)
+   http://railscasts.com/episodes/406-public-activity?language=ko&view=asciicast
+** ubuntu에서 yo 설치하기(홍두희)
+   https://www.facebook.com/groups/dev.study.members/permalink/523736047720933/
+** heroku 에 mongodb, redis, postgresql 올리는 방법을 정리했습니다. (홍두희)
+   http://doohee323.blogspot.kr/2013/10/setting-mongodb-redis-on-heroku-step-by.html
+** grunt-shell을 추가하면 gruntfile.js에 (박창진)
+   https://www.facebook.com/groups/dev.study.members/permalink/529526687141869/
+** warp_parameter(김충섭)
+   https://www.facebook.com/groups/dev.study.members/permalink/529031650524706/
+** Rails Backend 작업
+   https://www.facebook.com/groups/dev.study.members/permalink/525432084217996/
+** Angular + jQuery + Heroku (박창진)
+   https://docs.google.com/document/d/1EBE7DyZDHqOQ09UGr-TCow4SpYgHAEmInbhwbkyrbFQ/edit?usp=sharing
+** NG 실무 학습사항 노트 (민동국)
+   http://dkmin-web-dev.blogspot.kr/2013/10/ng.html
+** Rails 자동화된 테스트 환경 구축 (Sprig, Guard, Rspec) (김대권)
+   https://github.com/rorlab/bbapi/wiki/%EC%9E%90%EB%8F%99%ED%99%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95%28Spring,-Guard,-Rspec%29
+** Github 지원 서비스 세팅 (김대권)
+   https://github.com/rorlab/bbapi/wiki/Github-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A4%EC%A0%95
+** AngularJS 행아웃 공유 자료 (이성구)
+   https://docs.google.com/document/d/1cU-kw4zGGx6uhFwbtCh6dq8OkUZqPP6zimJBSTLZAgI/edit?usp=sharing
+** Dropbox로 파일 배포
+   https://www.facebook.com/groups/dev.study.members/permalink/529612647133273/
+** 프론트 엔드 작업량 토론 (최효성)
+   https://www.facebook.com/groups/dev.study.members/permalink/519463074814897/
+** rails-api 젬을 이용한 레일스 API 작성하기 (2) (최효성)
+   http://happyrails.rorlab.org/ko/posts/65
+** angular ajax 관련해서 설정법
+   https://www.facebook.com/groups/dev.study.members/permalink/517097711718100/
+** AngularJS Resource
+   https://www.facebook.com/groups/dev.study.members/permalink/515196318574906/
+** vsns 히로쿠 포팅 정리(홍두희)
+   https://docs.google.com/document/d/1I8lbxEQdun4UK34tHsFf80JI5y1t68APjZVeCwBWqBA/edit
+** 풀리퀘스트 쉽게 가져오기(김대권)
+   https://www.facebook.com/groups/dev.study.members/permalink/512975928796945/
+** 이한국 김성준 이의범 조 rspec 퀴즈 + rspec 기본 세팅 (김성준, 김대권)
+   https://www.facebook.com/groups/dev.study.members/permalink/510406249053913/
+** git workflow
+   https://www.facebook.com/groups/dev.study.members/permalink/511680055593199/
+   https://trello.com/c/jSkYBFKq/6-github-dev-study
+** wmd 에디터
+   https://www.facebook.com/groups/dev.study.members/permalink/511597925601412/
+   https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fhschoidr%2Fvsns%2Ftree%2Fwmd_editor&h=-AQFMyUbO
+** 최효성 박사님 과제
+   https://www.facebook.com/groups/dev.study.members/permalink/510934125667792/
+** github 활용 시뮬레이션 (홍두희)
+   https://docs.google.com/spreadsheet/ccc?key=0AjhDQWMGzvX1dHJxVngwZDFQb3FGNm1ZOW90TlMwcFE#gid=1
+** Rspec 리소스
+   https://www.facebook.com/groups/dev.study.members/permalink/510741645687040/
+** Git add . vs commit (민동국, 김대권)
+   https://www.facebook.com/groups/dev.study.members/permalink/509068949187643/
+** 모델 이름 짓기
+   https://www.facebook.com/groups/dev.study.members/permalink/506031729491365/
+** 루비에서 컨트롤러로 생성하지 않은 일반 .html 파일들은 보통 어떤형식으로 호출해야 실행할까요? 
+   https://www.facebook.com/groups/dev.study.members/permalink/505602796200925/
+** Gemfile 설명 (김대권)
+   https://www.facebook.com/groups/dev.study.members/permalink/505323529562185/
+** 빅파이팀 온라인회의
+   https://www.facebook.com/groups/dev.study.members/permalink/503933616367843/
+** 언어 나온 년도 (홍두희)
+   https://www.facebook.com/groups/dev.study.members/permalink/503659089728629/
+** 터미널에서 sublime 실행(이한국)
+   https://www.facebook.com/groups/dev.study.members/permalink/503226223105249/
+** masonry html로 적용
+   https://www.facebook.com/groups/dev.study.members/permalink/502894349805103/
+** Ruby Q/A
+   https://www.facebook.com/groups/dev.study.members/permalink/498859733541898/
+   https://www.facebook.com/notes/devstudymembers/ruby-in-depth-qa/499014753526396
+   https://www.facebook.com/groups/dev.study.members/permalink/499014756859729/
+   https://www.facebook.com/groups/dev.study/permalink/235137969968280/
+** Sextant(이준헌)
+   https://www.facebook.com/groups/dev.study.members/permalink/499903116770893/
+** 라이브 코딩에 사용된 Gemfile(김성준)
+   https://gist.github.com/victorkim/2c4b416c9feef481ce72
+** 스크린캐스트 활용법 (이준헌
+   https://gist.github.com/junheon/6220239#file-screencast-md
+   https://www.facebook.com/groups/dev.study.members/permalink/498669383560933/
+** subl shortcut best 20 (민동국)
+   https://www.facebook.com/notes/devstudymembers/subl-shortcut-best-20/525864034174801
+** HTML Front-End 별천지 세미나 (민동국)
+   https://www.facebook.com/notes/devstudymembers/%ED%9B%84%EA%B8%B0-html5-front-end-%EB%B3%84%EC%B2%9C%EC%A7%80-%EC%84%B8%EB%AF%B8%EB%82%98/522317781196093
+** Rails-tip
+   https://www.facebook.com/notes/devstudymembers/rails-tip/514050495356155
+** Github 프로토콜 설정(김대권)
+   https://www.facebook.com/groups/dev.study/permalink/228570350625042/
+** ROR을 위한 개발툴(홍두희)
+   https://www.facebook.com/groups/dev.study/permalink/232092410272836/
+** Rails 설치 이슈(홍두희)
+   https://www.facebook.com/groups/dev.study/permalink/234262060055871/
+** Ruby 버전 관리 (홍두희)
+   https://www.facebook.com/groups/dev.study/permalink/234955639986513/
+** Ruby Require 이슈 (홍두희)
+   https://www.facebook.com/groups/dev.study/permalink/236393136509430/
+** Nitrous 를 putty와 filezillar로 사용 | Dewey Hong' Blog
+   http://doohee323.blogspot.kr/2013/08/nitrous-putty-filezillar.html
+** Heroku 배포 관련 이슈
+   https://www.facebook.com/groups/dev.study/permalink/239846076164136/
+** [현재 git repo 구조에서의 git 사용 테스트]
+   https://docs.google.com/document/d/1M7EKfbzC61xeKLc1jjBAw_2OEe-5UNT_jeIkbXfbX28/edit
+** Cors (이준헌)
+   https://www.facebook.com/groups/dev.study/permalink/246298565518887/

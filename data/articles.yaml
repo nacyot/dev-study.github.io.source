@@ -1,0 +1,543 @@
+# TODO 이미지 추가
+
+- title: Angularjs Style Guide
+  link: https://github.com/nacyot/angularjs-style-guide/blob/master/README-ko-kr.md
+  source: ./data/articles/angularjs-style-guide.md
+  target: /articles/angularjs-style-guide.html
+  date: 2013-10-30
+  tags: 
+    - 번역
+    - Angularjs
+    - 스타일 가이드
+    - Minko Gechev
+  author: 김대권
+- title: Visualization-Mapping
+  link: http://www.slideshare.net/ext/visualization-and-data-mapping
+  source: ./data/articles/visualization-data-mapping.md
+  target: /articles/visualization-data-mapping.html
+  date: 2013-11-17
+  tags:
+    - 정보시각화
+    - ggplot2
+    - R
+    - 데이터
+  author: 김대권
+  published: no
+- title: CollectiveCreavity
+  link: https://gist.github.com/victorkim/7055754
+  date: 2013-10-19
+  author: 김성준
+  tags:
+    - 협업
+    - Ed Catmull
+    - Pixar
+- title: "#406 Public Activity - RailsCasts"
+  link: "http://railscasts.com/episodes/406-public-activity?language=ko&view=asciicast"
+  author: 최효성
+  date: 2013-10-15
+  tags: 
+    - Public Activity
+    - 레일즈
+    - RailsCasts
+    - 번역
+- title: ubuntu에서 yo 설치하기
+  link: https://www.facebook.com/groups/dev.study.members/permalink/523736047720933/
+  author: 홍두희
+  date: 2013-10-1
+  source: ./data/articles/yo-install-on-ubuntu.md
+  target: /articles/yo-install-on-ubuntu.html
+  tags: 
+    - 우분투
+    - 리눅스
+    - yo
+    - 자바스크립트
+- title: heroku 에 mongodb, redis, postgresql 올리는 방법을 정리했습니다.
+  link: http://doohee323.blogspot.kr/2013/10/setting-mongodb-redis-on-heroku-step-by.html
+  author: 홍두희
+  date: 2013-10-14
+  tags: 
+    - 히로쿠
+    - 몽고db
+    - 레디스
+    - Postgresql
+- title: grunt-shell 사용시 출력 / 에러 보여주기
+  link: https://www.facebook.com/groups/dev.study.members/permalink/529526687141869/
+  author: 박창진
+  date: 2013-10-13
+  source: ./data/articles/grunt-shell-stdout.md
+  target: /articles/grunt-shell-stdout.html
+  tags: 
+    - grunt
+    - stdout
+    - stderr
+    - Heroku
+  comments:
+    - name: 홍두희
+      date: 2013-10-13
+      body: >
+        heroku 배포시 편해지는 건가요?
+    - name: Park ChangJin
+      date: 2013-10-13
+      body: >-      
+        넵 ^^ 전 grunt heroku 라는 명령으로 build, git add,
+        commit, heroku로 업로드까지 수행하도록 Gruntfile.js를 수정해서 쓰고
+        있어요
+- title: warp_parameter
+  link: https://www.facebook.com/groups/dev.study.members/permalink/529031650524706/
+  author: 김충섭
+  source: ./data/articles/wrap_parameter.md
+  target: /articles/wrap_parameter.html
+  date: 2013-10-12
+  tags:
+    - wrap-parameter
+    - RailsAPI
+  comments:
+    - name: 최효성
+      date: 2013-10-12
+      body: >-
+        active_model_serializers 젬을 사용하면 더 간편하게
+        옵션으로 처리할 수 있습니다.
+    - name : 김충섭
+      date: 2013-10-12
+      body: >-
+        @최효성 제가 설명이 조금 부실했던것 같은데요
+        ^^;; 입력값(클라이언트->서버)에 대한 부분인데
+        `active_model_serializers`와 관련이 있는건가요?
+    - name: 홍두희
+      date: 2013-10-13
+      body: >-
+        여러 테이블을 한번에 처리할 경우 두번째는
+        필수겠죠. ERP에서는 흔합니다.
+    - name: 김충섭
+      date: 2013-10-13
+      body: >-
+        @홍두희 네~ 기존 방식은 그대로 사용 가능합니다~
+        단건 방식에서 유용할것 같습니다 ㅎㅎ
+- title: Angular + jQuery + Heroku
+  link: https://docs.google.com/document/d/1EBE7DyZDHqOQ09UGr-TCow4SpYgHAEmInbhwbkyrbFQ/edit?usp=sharing
+  author: 박창진
+  source: ./data/articles/angular-jquery-heroku.md
+  target: /articles/angular-jquery-heroku.html
+  date: 2013-10-6
+  tags: 
+    - 히로쿠
+    - jQuery
+- title: NG 실무 학습사항 노트
+  link: http://dkmin-web-dev.blogspot.kr/2013/10/ng.html
+  author: 민동국
+  date: 2013-10-3
+  tags:
+    - AngularJS
+- title: Rails 자동화된 테스트 환경 구축 (Sprig, Guard, Rspec)
+  link: https://github.com/rorlab/bbapi/wiki/%EC%9E%90%EB%8F%99%ED%99%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9A%A9%EB%B2%95%28Spring,-Guard,-Rspec%29
+  author: 김대권
+  date: 2013-10-2
+  source: ./data/articles/ruby-test-automation-with-rspec-and-guard.md
+  target: /articles/ruby-test-automation-with-rspec-and-guard.html
+  tags: 
+    - Spring
+    - Guard
+    - Rspec
+    - 레일즈
+    - 테스트 자동화
+    - TDD
+- title: Github 지원 서비스 세팅
+  link: https://github.com/rorlab/bbapi/wiki/Github-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A4%EC%A0%95
+  author: 김대권
+  date: 2013-10-2
+  source: ./data/articles/github-ecosystem.md
+  target: /articles/github-ecosystem.html
+  tags: 
+    - CodeClimate
+    - Travis
+    - Github
+    - Coveralls
+    - rubydoc.info
+    - Gemnagium
+- title: AngularJS 행아웃 공유 자료
+  link: https://docs.google.com/document/d/1cU-kw4zGGx6uhFwbtCh6dq8OkUZqPP6zimJBSTLZAgI/edit?usp=sharing
+  author: 이성구
+  source: ./data/articles/angularjs-introduction.md
+  target: /articles/angularjs-introduction.html
+  date: 2013-9-24
+  tags:
+    - AngularJS
+- title: rails-api 젬을 이용한 레일즈 API 작성하기 (2)
+  link: http://happyrails.rorlab.org/ko/posts/65
+  author: 최효성
+  tags: 
+    - AngularJS
+    - RailsAPI
+    - 레일즈
+    - JBuilder
+    - RABL
+    - API
+  date: 2013-9-21
+- title: rails-api 젬을 이용한 레일즈 API 작성하기 (1)
+  link: http://happyrails.rorlab.org/ko/posts/64
+  author: 최효성
+  tags: 
+    - AngularJS
+    - RailsAPI
+    - 레일즈
+    - API
+  date: 2013-9-20
+- title: angular ajax 관련해서 설정법
+  link: https://www.facebook.com/groups/dev.study.members/permalink/517097711718100/
+  author: 이준헌
+  source: ./data/articles/angularjs-ajax-configuration.md
+  target: /articles/angularjs-ajax-configuration.html
+  date: 2013-9-18
+  tags:
+    - AngularJS
+    - ajax
+    - cors
+    - Grunt
+  comments:
+    - name: 이준헌
+      date: 2013-9-18
+      body: >-
+        2번은 apache나 nginx 같은 웹서버에서 설정하는 reverse proxy를 개발환경에서 grunt에 설정해서 사용하는 방법입니다.
+        grunt-connect-proxy 설정은 제가 사용하는것 일부를 발췌한것이어서... [grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) 를 참고하시면 좋을거 같습니다.
+    - name: 최효성
+      date: 2013-9-18
+      body: > 
+        불러온 json 데이터의 내용을 볼 수 있는 방법은 어떻게 되나요? 속성값을 불러오지 못하네요. {{ item.description }} 값을 읽지를 못하네요.
+- title: AngularJS Resource
+  link: https://www.facebook.com/groups/dev.study.members/permalink/515196318574906/
+  author: 이강훈
+  source: ./data/articles/angularjs-resources.md
+  target: /articles/angularjs-resources.html
+  date: 2013-9-14
+  tags:
+    - AngularJS
+    - 링크
+- title: vsns 히로쿠 포팅 정리
+  link: https://docs.google.com/document/d/1I8lbxEQdun4UK34tHsFf80JI5y1t68APjZVeCwBWqBA/edit
+  date: 2013-9-12
+  source: ./data/articles/vsns-heroku-porting.md
+  target: /articles/vsns-heroku-porting.html
+  author: 홍두희
+  tags: 
+    - VSNS
+    - Heroku
+    - Bundler
+    - 레일즈
+    - git
+    - Github
+- title: 풀리퀘스트 쉽게 가져오기
+  link: https://www.facebook.com/groups/dev.study.members/permalink/512975928796945/
+  author: 김대권
+  source: ./data/articles/pull-github-pullrequest.md
+  target: /articles/pull-github-pullrequest.html
+  date: 2013-9-10
+  tags:
+    - Github
+    - 풀리퀘스트
+    - git
+- title: "Rspec 연습 : 아이스크림 공장 퀴즈"
+  link: https://www.facebook.com/groups/dev.study.members/permalink/510406249053913/
+  author: 김성준
+  source: ./data/articles/rspec-icecream-factory-quiz.md
+  target: /articles/rspec-icecream-factory-quiz.html
+  date: 2013-9-5
+  tags:
+    - RSpec
+    - 알고리즘
+    - TDD
+  comments:
+    - name: 이범재
+      date: 2013-9-5
+      body: >-
+        앗 겹치네요. ^^ 저희도 테스트 만들기로 했네요.
+    - name: 김성준
+      date: 2013-9-5
+      body: >-
+        이범재 같이 공유하면 좋겠네요
+    - name: Eui Bum Lee
+      date: 2013-9-5
+      body: >-
+        아자아자!!
+    - name: 장재휴
+      date: 2013-9-5
+      body: >-
+        이거 재밌겠네요~ㅎ 조용한 밤시간에, 커피한잔 마시고 한번 해봐야겠습니다.^^
+    - name: 김대권
+      date: 2013-9-7
+      boyd: >-
+        풀이 하시면 공유 좀 부탁드려요 ㅎㅎ
+    - name: 이강훈
+      date: 2013-9-7
+      body: >-
+        아고 머리야 @.@
+    - name: 이강훈
+      date: 2013-9-7
+      body: >- 
+        담주에 공유 기대할게요 ㅋㅋ
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        이거 generateor 보다 쉬운문제 맞죠?? ㅠㅜ 점점 미쳐가고 있습니다..
+    - name: 김성준
+      date: 2013-9-8
+      body: >-
+        문제는 다 못풀어도 됩니다~
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        ubuntu에선 rspec적용부분이 undefined method `describe' for main:Object (NoMethodError) 이라고 나오네요. 이부분 처리방법 아시는분 있으시나요?
+    - name: 김성준
+      date: 2013-9-8
+      body: >-
+        gemfile에 rspec 설치하셨나요?
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        넵. rspec만 설치했습니다. 기존 수업시간에 작성했던 파일도 rspec이 적용이 안되네요 ㅠㅜ 일단 그부분은 주석처리후 머리 싸메고 있습니다 ㅋ
+    - name: 김대권
+      date: 2013-9-8
+      body: >-
+        https://bitbucket.org/nacyot/icecreamfactory/ 풀긴 풀었는데... 처음에 접근방식이 너무 궁색해서 다시 풀었습니다.
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        대단하시네요 ㅎ
+    - name: 김대권
+      date: 2013-9-8
+      body: >-
+        Eui Bum Lee https://bitbucket.org/nacyot/rspec-structure 혹시 계속 안 되시면 이거 clone 해서 bundle install; bundle exec rspec 해보세요. 제 환경에선 돌아가는 거 확인했는데, 어떨지 모르겠네요.
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        김대권 그래봐야겠네요^^ 감사합니다~
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        마찬가지네요ㅠㅜ 우분투 뭐 이래 ㅠㅜ
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        김대권 위 풀이의 알고리즘 알려주실 수 있나요?? 언어도 언어지만 알고리즘부터가 어렵네요.
+    - name: 김대권
+      date: 2013-9-8
+      body: >-
+        Eui Bum Lee 이런 문제푸는 정확한 알고리즘이 뭔지는 저도 잘
+        모르겠는데, 일단 제가 temperature_strategy.rb 에 구현해둔 거 간단히
+        설명해 드리면,
+        일단 모든 아이스크림들을 대상으로 가질수 있는 최대 범위(위의
+        아이스크림 4개 예에서는 -20에서 -3가 되겠죠)를 찾아 이 범위에 속하는
+        온도들을 해쉬키로 하고 빈 배열을 해쉬값으로 하는 해쉬를 만듭니다.
+        그리고 각 아이스크림을 반복하면서 아이스크림에 속할 수 있는 온도에
+        대해서 해당 해쉬키의 배열에 아이스크림을 집어넣습니다. 모든
+        아이스크림에서 이 작업을 수행하면 각 온도의 냉장고가 있을 때 몇개의
+        아이스크림을 수용할 수 있는지 알 수 있습니다.
+        이 해쉬를 해쉬값 배열의 갯수를 기준으로 많은 아이스크림을 수용할 수
+        있는 냉장고들을 순서대로 정렬합니다. 다시 이 냉장고들을 차례대로
+        반복하면서 모든 아이스크림을 수용할 때까지 몇 개의 냉장고가 필요한지
+        계산합니다.
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        감사합니다^^
+    - name: 김대권
+      date: 2013-9-8
+      body: >-
+        가능한 모든 조합 찾는 방법도
+        사용해봤었는데(combination_strategy.rb) 이건 아이스크림 개수가
+        많아지면 미친듯이 느려지더군요 ㅜ 정확한 풀이법은... 김성준 님이
+        리딩해주실 겁니다 ㅎㅎ.
+    - name: 김대권
+      date: 2013-9-8)
+      body: >-
+        그나저나 rspec은 왜 안 되는 걸까요 ㅜ
+        
+        gem install rspec 으로 메인에 rspec 설치하시고
+        
+        ruby -rrspec -e "describe { }" 해 보세요. 아무런 출력도 없으면 정상인
+        거긴 한데.
+        
+        아마 ruby -e "describe {}" 하면 Eui Bum Lee 님이 얘기하신 오류가 날
+        텐데 테스트 용도로 파일에서 직접 require 'rspec' 명시하고 실행해보세요.
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        이래저래 찾아보고 발견하면 올리도록 하겠습니다^^
+    - name: 김성준
+      date: 2013-9-8
+      body: >-
+        저희팀원분들은 잘하시구 계신가요? ㅎㅎ
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        rspec 사용은 어렵지 않게 익힌것 같은데 오히려 문제를 푸는 알고리즘 부터 구현이 발목을 잡아도 제대로 잡았네요 ㅠㅜ 이런식의 문제를 많이 풀어봐야 할 것 같습니다. 아마 이번은 김성준님의 도움으로 알고리즘을 해결해야 할것 같네요 ㅠㅜ
+    - name: 이한국
+      date: 2013-9-8
+      body: >-
+        문제.. 이해가 ......ㅋㅋㅋ 선약 때문에 방금전에 집에 도착해서요 ㅜㅜ 10시까지 집중해서 해보겠습니다.
+    - name: 김성준
+      date: 2013-9-8
+      body: >-
+        아 이런 문제는 문제를 전부 풀어낼 필요는 없습니다. 실제로
+        코딩도장에서도 완료하지 못하는 분들이 많아요 ㅎㅎ 다만 작은 단위에서
+        테스트 코드 작성하기에 유리한 면이 있습니다. 너무 멋지게 풀 필요는
+        없으시구요.(저도 리팩토링을 하고싶은데 귀찮네요 ㅎㅎ) rspec 숙련에
+        초첨을 두셨으면 좋겠네요
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        김대권님이 알려주신데로 require 를 했더니 오류가 잡혔습니다. 아흑..
+        일단 이렇게 ㅎㅎ 감사합니다.
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        김성준 님 말대로 rpec 숙련에 ;;;;ㅋㅋ
+    - name: 김성준
+      date: 2013-9-8
+      body: >-
+        넵 저도 풀어보니 어렵네요 ㅎㅎㅎ 제가 문제 선택을 잘못했군요 ㅎㅎ
+    - name: Eui Bum Lee
+      date: 2013-9-8
+      body: >-
+        ㅋㅋㅋ 위로가 됩니다 ㅋㅋㅋㅋ 12시에 행아웃인가요??
+- title: Rspec 리소스
+  author: 이범재
+  source: ./data/articles/rspec_resources.md
+  target: /articles/rspec_resources.html
+  link: https://www.facebook.com/groups/dev.study.members/permalink/510741645687040/
+  date: 2013-9-6
+  tags:
+    - RSpec
+    - 링크
+- title: Gemfile 설명
+  link: https://www.facebook.com/groups/dev.study.members/permalink/505323529562185/
+  author: 김대권
+  source: ./data/articles/gemfile-introduction.md
+  target: /articles/gemfile-introduction.html
+  tags:
+    - Gemfile
+    - 루비
+    - 패키지
+    - Bundler
+- title: 터미널에서 sublime 실행
+  link: https://www.facebook.com/groups/dev.study.members/permalink/503226223105249/
+  author: 이한국
+  source: ./data/articles/terminal-sublime.md
+  target: /articles/terminal-sublime.html
+  date: 2013-8-22
+  tags:
+    - Sublime
+    - 터미널
+  comments:
+    - name: 이강훈
+      date: 2013-8-22
+      body: >-
+        ㄱㅅ ^^
+    - name: 김수혁
+      date: 2013-8-22
+      body: >-
+        저는 /usr/bin/ 으로 링크가 안 걸려서 ~/bin/subl
+        저는 /usr/bin/ 으로 링크가 안 걸려서 ~/bin/subl 로 걸었어요.
+        저와 같은 경우가 종종 있는 것 같더군요.
+- title: masonry html로 적용
+  link: https://www.facebook.com/groups/dev.study.members/permalink/502894349805103/
+  author: 김대권
+  source: ./data/articles/masonry-html.md
+  target: /articles/masonry-html.html
+  date: 2013-8-21
+  tags:
+    - Masonry
+    - HTML
+    - 자바스크립트
+- title: subl shortcut best 20
+  link: https://www.facebook.com/notes/devstudymembers/subl-shortcut-best-20/525864034174801
+  author: 민동국
+  source: ./data/articles/subl-shortcut-best.md
+  target: /articles/subl-shortcut-best.html
+  date: 2013-10-6
+  tags:
+    - sublime text
+    - 단축키
+- title: Sextant
+  link: https://www.facebook.com/groups/dev.study.members/permalink/499903116770893/
+  author: 이준헌
+  date: 2013-8-15
+  source: ./data/articles/gem-saxtant.md
+  target: /articles/gem-saxtant.html
+  tags:
+    - gem
+    - 레일즈
+  comments:
+    - name: 이준헌
+      date: 2013-8-15
+      body: >-
+        아 제가 잘못알앗네요.. rails 4 부터는 error
+        trace상에 routes가 기본으로 나오는거 같군요.. rails를 오랜만에
+        해봐서--
+    - name: 김대권
+      date: 2013-8-15
+      body: >-
+        4부터 /rails/info/routes 여기 들어가도 볼 수
+        있어요.
+- title: 라이브 코딩에 사용된 Gemfile
+  link: https://gist.github.com/victorkim/2c4b416c9feef481ce72
+  author: 김성준
+  date: 2013-8-14
+  tags: 
+    - Gemfile
+    - Bundler
+    - 라이브 코딩
+- title: 스크린캐스트 활용법
+  link: "https://gist.github.com/junheon/6220239#file-screencast-md"
+  author: 이준헌
+  date: 2013-8-13
+  tags: 
+    - QuickTime
+    - Monosnap
+    - 스크린캐스트
+- title: HTML Front-End 별천지 세미나 후기
+  link: https://www.facebook.com/notes/devstudymembers/%ED%9B%84%EA%B8%B0-html5-front-end-%EB%B3%84%EC%B2%9C%EC%A7%80-%EC%84%B8%EB%AF%B8%EB%82%98/522317781196093
+  author: 민동국
+  source: ./data/articles/beolchenji-seminar.md
+  target: /articles/beolchenji-seminar.html
+  date: 2013-9-29
+  tags:
+    - 자바스크립트
+    - 별천지 세미나
+- title: Rails-tip
+  link: https://www.facebook.com/notes/devstudymembers/rails-tip/514050495356155
+  author: 이한국
+  date: 2013-9-13
+  source: ./data/articles/rails-tip.md
+  target: /articles/rails-tip.html
+  tags:
+    - 레일즈
+    - 자바스크립트
+- title: Github 프로토콜 설정
+  link: https://www.facebook.com/groups/dev.study/permalink/228570350625042/
+  author: 김대권
+  tags:
+    - Github
+    - 저장소
+- title: "Nitrous 를 putty와 filezillar로 사용 | Dewey Hong' Blog"
+  link: http://doohee323.blogspot.kr/2013/08/nitrous-putty-filezillar.html
+  author: 홍두희
+  tags: 
+    - nitro.us
+    - putty
+    - filezillar
+- title: git config 정리
+  link: https://docs.google.com/document/d/1M7EKfbzC61xeKLc1jjBAw_2OEe-5UNT_jeIkbXfbX28/edit
+  author: 홍두희
+  source: ./data/articles/git-configuration.md
+  target: /articles/git-configuration.html
+  date: 2013-9-12
+  tags:
+    - git
+- title: Cors
+  link: https://www.facebook.com/groups/dev.study/permalink/246298565518887/
+  author: 이준헌
+  source: ./data/articles/angularjs-cors.md
+  target: /articles/angularjs-cors.html
+  date: 2013-9-15
+  tags:
+    - cors

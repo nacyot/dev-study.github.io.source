@@ -1,0 +1,38 @@
+** 10월 28일 공동가계부팀 행아웃 (김충섭)
+   angularjs
+   http://www.youtube.com/watch?v=-egoclwsX9k
+   http://www.youtube.com/watch?v=CUIQDvc0qFU
+** 10월 14일 행아웃 (최효성)
+   http://youtu.be/rt7VDJmKWJw
+   최효성 박사님 목소리 녹음 안 됨.
+** 10월 5일 공동가계부 행아웃
+   http://www.youtube.com/watch?v=xaq4KKHz_Ak
+** 10월 1일 행아웃
+   https://www.youtube.com/watch?v=KhZ2cxVCkVk
+   https://docs.google.com/document/d/19JbQMVPzlTCM-AyPAH5x3wPdCVCZEAiyW_qVvUT9b8g/edit?usp=sharing
+** 9월 10일 vsns 코드리뷰
+   http://youtu.be/MCkqWpP1Tw0
+** 9월 8일 코드리뷰
+   http://www.youtube.com/embed/lgQ9Q1PVERw
+** 9월 6일 코드리뷰
+   http://youtu.be/kyfCfAG9L2Y
+** Layouts in Rails 3 (최효성)
+   http://youtu.be/vIBtoX1v4do
+** 로그인, 로그아웃, 포스팅, 사진 업로드(8/26, 이준헌)
+   http://www.youtube.com/watch?v=mz12j9FihCA&feature=youtu.be
+** Rails Migrations on CLI (8/24, 최효성)
+   http://www.youtube.com/watch?v=eI0Jd9KajF4&feature=share&list=PLXE1NhsJxLVzGZYikEluwGvzPyaNnDq9I
+** Responsive Nested Layouts using Twitter Bootstrap, Live Coding (최효성)
+   http://www.youtube.com/embed/HqeuyM8uKmQ
+** Dev.Rulu 라이브 코딩 (이준헌)
+   http://www.youtube.com/watch?v=mz12j9FihCA&feature=youtu.be
+** Submodule 스크린캐스트 (이준헌)
+   http://vimeo.com/72864759
+** 이준헌 님의 Best Practice 따라해보기 (김성준)
+   https://www.facebook.com/groups/dev.study.members/permalink/503270153100856/
+   https://github.com/junheon/dev.study.mission07
+   http://www.youtube.com/watch?v=TELOqJRrqsc
+** Dev.Study 팀 빅 파이 프로젝트 소개
+   http://www.youtube.com/watch?v=HRCGa9YfgTo
+** 민동국 트위터 부트스트랩 소개
+   http://www.youtube.com/watch?v=z7wvaE5fYN8

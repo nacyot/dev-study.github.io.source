@@ -1,0 +1,261 @@
+- user: 김성준
+  links: 
+    - title: Layouts and Rendering in Rails — Ruby on Rails Guides
+      link: http://guides.rubyonrails.org/layouts_and_rendering.html
+- user: 김재준
+  links:
+    - title: Create a new Fiddle - jsFiddle 
+      link: http://jsfiddle.net/
+    - title: Callabo!
+      link: http://www.clbnow.com/try
+- user: 이준헌
+  links: 
+    - title: Adding Real-Time To A RESTful Rails App - Liam Kaufman 
+      link: http://liamkaufman.com/blog/2013/02/27/adding-real-time-to-a-restful-rails-app/
+    - title: "[cookbook] Github + Trello 연동하기"
+      link: http://nodeqa.com/nodejs_ref/89
+    - title: 버티컬 SNS란
+      link: https://trello.com/c/B99XUJdO/58-sns
+    - title: 오픈소스 라이센스
+      link: http://nowhunt.tistory.com/2
+    - title: "OLIS - 라이센스 분류"
+      link: https://www.olis.or.kr/ossw/license/license/list.do
+- user: 이강훈
+  links:
+    - title: Workflow 기반 실시간 스트리밍 데이터 수집/분석 플랫폼 최규민
+      link: http://www.slideshare.net/ssuser2fe594/2013-workflow
+    - title: "페이스북, 오픈소스 DW 엔진 '프레스토' 공개…300PB 데이터 분석용 - 테크수다"
+      link: http://www.techsuda.com/archives/2224
+    - title: Opening type - CodePen
+      link: http://codepen.io/diegopardo/full/GqEho
+    - title: 충격 고로케
+      link: http://hot.coroke.net/
+    - title: 지도의 힘...구글 아이디어스 관심집중 - 지디넷코리아
+      link: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20131030142350
+    - title: "미래부, ICT R&D 중장기 전략 확정 상세보기|보도자료 | 미래창조과학부"
+      link: http://www.msip.go.kr/www/brd/m_211/view.do?seq=878
+    - title: Bmg visual storming kit 2013_ver6.0
+      link: http://www.slideshare.net/human5804/bmg-visual-storming-kit-2013ver60
+    - title: Types | Semantic UI
+      link: http://semantic-ui.com/introduction/types.html
+    - title: "New gem released: Futuroscope! - Codegram"
+      link: http://blog.codegram.com/2013/5/new-gem-released-futuroscope
+    - title: "[AngularJS] 배우는 방법 & 기본 개념 잡기"
+      link: http://mobicon.tistory.com/m/post/view/id/281
+    - title: chrome-three-sentences
+      link: https://github.com/xissy/chrome-three-sentences
+    - title: "Github를 이용하는 전체 흐름 이해하기 #1 :: Outsider's Dev Story"
+      link: http://blog.outsider.ne.kr/865
+    - title: "Outsider's Github를 이용하는 전체 흐름 이해하기 #2"
+      link: http://blog.outsider.ne.kr/866
+    - title: Adding Real-Time To Rails With Socket.IO, Node.js and Backbone.js
+      link: (With Demo) - Liam Kaufman
+    - title: "Liam Kaufman : Adding Real-Time to Rails With Socket.IO, Node.js and Backbone.js"
+      link: http://liamkaufman.com/blog/2012/02/25/adding_real-time_to_rails_with_socket.IO_nodejs_and_backbonejs_with_demo/
+    - title: hojoki
+      link: http://hojoki.com/
+    - title: "Make your own gem"
+      link: http://guides.rubygems.org/make-your-own-gem/
+    - title: Mural.ly - Google Docs for Visual People
+      link: https://mural.ly/
+    - title: Trello로 효율적으로 협업하기
+      link: http://goo.gl/f7oSnc
+    - title: Heroku
+      link: https://www.heroku.com/
+    - title: Ruby Hacking Guide
+      link: http://ruby-hacking-guide.github.io/
+    - title: NHN NEXT - 일반 사용자용 SW를 중심으로 변화되는 SW산업의 미래
+      link: http://www.youtube.com/watch?v=-73cDPqlYeA
+    - title: Getting Real (KOR)
+      link: http://jaehyun.kr/gettingreal-kor
+    - title: IT 기술 업계의 일과 생활 불균형에 대해 
+      link: http://blog.naver.com/homygodx/10174384930
+    - title: Code & Conquer 
+      link: http://codeandconquer.co/
+    - title: Why Use Twitter Bootstrap? Because I Said So
+      link: http://www.queness.com/post/14057/why-use-bootstrapa-because-i-said-so
+- user: 이의범
+  links: 
+  - title: One Month Rails
+    link: https://onemonthrails.com/
+  - title: "Angular directives for Twitter's Bootstrap"
+    link: http://angular-ui.github.io/bootstrap/
+  - title: "[Smart Visualization] AngularJS Framework 시작하기 - 3"
+    link: http://mobicon.tistory.com/352
+  - title: famo.us
+    link: http://famo.us/
+  - title: 죽여주는 오픈소스 어드민툴 13종
+    link: http://www.ciokorea.com/slideshow/16067
+  - title: 요즘 뜨는 오픈소스 13선
+    link: http://www.ciokorea.com/slideshow/16565
+  - title: AngularJS 디펜던시 인젝션(DI) 이해하기 
+    link: http://blog.aliencube.org/post/64205711454/understanding-dependency-injection-on-angularjs
+  - title: "n"
+    link: https://github.com/visionmedia/n
+  - title: ":: 그냥 삽살이 - 내일의 바람이 불어야 모레의 해가 뜬다 :: GIT"
+    link: 서브모듈사용법 - 추가, 사용, 제거, 업데이트
+  - title: "GIT 서브모듈사용법 - 추가, 사용, 제거, 업데이트"
+    link: http://sapsaldog.tistory.com/entry/GIT-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B6%94%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%9C%EA%B1%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8   
+  - title: git 치트시트
+    link: http://j.mp/1eg6eWf
+  - title: "Sublimerge: The diff and merge tool for Sublime Text 2 and 3"
+    link: http://www.sublimerge.com/
+  - title: "다음, 앨범형 SNS앱 '위드' 출시 - 지디넷코리아"
+    link: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20130910174058
+  - title: TDD, BDD, RSpec
+    link: http://www.slideshare.net/NasceniaIT/tdd-bdd-r-spec
+- user: 김한기
+  links:
+    - title: GDG DevFest Korea
+      link: https://sites.google.com/site/gdgdevfestkorea/
+- user: 최효성
+  links: 
+    - title: 레일스에서 환경변수를 쉽게 관리하는 방법
+      link: http://bit.ly/1fYdyFE
+    - title: Mavericks 설치 후 레일스 개발환경 설정하기
+      link: http://dean.io/setting-up-a-ruby-on-rails-development-environment-on-mavericks/
+    - title: AngularJS Learning
+      link: https://github.com/jmcunningham/AngularJS-Learning
+    - title: "[AngularJS] 배우는 방법 & 기본 개념 잡기"
+      link: http://mobicon.tistory.com/281
+    - title: Up and running with AngularJS & Rails - StaunchRobots dev blog
+      link: http://staunchrobots.com/blog/blog/2013/10/14/up-and-running-with-angularjs-and-rails/
+    - title: Screenhero
+      link: http://screenhero.com/
+    - title: "textAngular"
+      link: http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=aaf8b4fd80&e=e4f41c79a0
+    - title: active_model_serializers
+      link: https://github.com/rails-api/active_model_serializers
+    - title: How to integrate AngularJS with Rails 4 - Blog - Shelly Cloud
+      link: https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4
+    - title: ng-newsletter
+      link: http://www.ng-newsletter.com/posts/directives.html
+    - title: RESTful API authentication - Cocoa Hunter 
+      link: http://www.cocoahunter.com/blog/2013/02/13/restful-api-authentication/
+    - title: Angularjs 공식 동영상
+      link: http://www.youtube.com/user/angularjs
+    - title: JSON Formatter & Validator
+      link: http://jsonformatter.curiousconcept.com/
+    - title: jwo/registrations_controller.rb
+      link: https://gist.github.com/jwo/1255275
+    - title: Automating Your Front-End Workflow With Yeoman 1.0
+      link: http://youtu.be/iUQ1fvdO9GY
+    - title: Gitting to Know You - 1200 - Pull Requests Part 1 
+      link: http://youtu.be/XogN0Q4sb9o
+    - title: summernote-rails | RubyGems.org | your community gem host
+      link: https://www.facebook.com/groups/dev.study.members/permalink/503659089728629/
+    - title: Downloads - macvim - Vim for the Mac - Google Project Hosting
+      link: http://code.google.com/p/macvim/downloads/list
+- user: 김대권
+  links:
+    - title: Docker
+      link: https://www.docker.io/
+    - title: "Why is this program erroneously rejected by three C++ compilers?"
+      link: http://stackoverflow.com/questions/5508110/why-is-this-program-erroneously-rejected-by-three-c-compilers/5509143
+    - title: "Github Help : Closing issues via commit messages"
+      link: https://help.github.com/articles/closing-issues-via-commit-messages
+    - title: "#308 Oh My ZSH - RailsCasts"
+      link: http://railscasts.com/episodes/308-oh-my-zsh
+- user: 김성준
+  links:
+    - title: websocket-rails 데모
+      link: http://ws42-demo.pogoapp.com/
+    - title: https://hub.pogoapp.com/demo/ws42
+- user: 홍두희
+  links:
+    - title: "[발 번역] Staircar: Redis-powered notifications"
+      link: http://charsyam.wordpress.com/2012/03/20/%EB%B0%9C-%EB%B2%88%EC%97%AD-staircar-redis-powered-notifications/
+    - title: "[AngularJS] Think in AngularJS"
+      link: http://mobicon.tistory.com/327
+    - title: A web app in 10 minutes using Play framework 
+      link: http://www.youtube.com/watch?v=kXImTUlHwAo
+    - title: AngularJS Fundamentals In 60-ish Minutes
+      link: http://www.youtube.com/watch?v=i9MHigUZKEM
+- user: 이성구
+  links:
+    - title: "RailRoady"
+      link: https://github.com/preston/railroady
+- user: 민동국
+  links:
+    - title: Animation in AngularJS by Gias Kay Lee
+      link: http://slid.es/gsklee/animation-in-angularjs
+    - title: Angularjs batarang
+      link: http://youtu.be/q-7mhcHXSfM
+    - title: "Chrome extension search : angularjs"
+      link: https://chrome.google.com/webstore/search/angularjs
+    - title: "[Yeoman] v1.0 으로 AngularJS 개발환경 구성하기"
+      link: http://mobicon.tistory.com/274
+    - title: git 을 쉽게 이용하는 방법 git-flow
+      link: http://codesherpas.com/screencasts/on_the_path_gitflow.mov
+    - title: 모바일 홈페이지 활용 전략
+      link: http://saedu.naver.com/adinfo/column/read.nhn?seq=81&catg
+    - title: oh-my-zsh
+      link: https://github.com/robbyrussell/oh-my-zsh
+- user: 임경호
+  links:
+    - title: ABOUT | SAMSUNG SMART APP CHALLENGE 2013 for GALAXY NOTE
+      link: http://developer.samsung.com/ssac2013/note/aboutTheChallenge.do
+- user: 김충섭
+  links: 
+    - title: Syncing a fork · GitHub Help
+      link: https://help.github.com/articles/syncing-a-fork
+    - title: AngularJS HTML5 Mode with Yeoman | ericduran 
+      link: http://ericduran.io/2013/05/31/angular-html5Mode-with-yeoman/
+- user: 장재휴
+  links:
+    - title: Deal with users authentication in an AngularJS web app 
+      link: "http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app#comment-915096518"
+- uesr: 최완복
+  links: 
+    - title: egghead
+      link: http://www.egghead.io/
+    - title: zsh용 PowerlineFont symbol
+      link: https://github.com/Lokaltog/powerline/raw/develop/font/PowerlineSymbols.otf
+    - title: "I'm learning how to code with @onemonthrails!"
+      link: https://onemonthrails.com/try
+- user: 김진영
+  links: 
+    - title: rails-erd
+      link: http://rails-erd.rubyforge.org/install.html
+    - title: YADR
+      link: https://github.com/andrwj/YADR
+    - title: Popular Coding Convention on Github
+      link: "http://sideeffect.kr/popularconvention/#ruby"
+    - title: 터보링크(Turbolinks)와 레일스 4.0 | 유스풀패러다임
+      link: http://usefulparadigm.com/2013/06/28/turbolinks-and-rails-4/
+    - title: web framework 성능 벤치마크 비교 
+      link: "http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=query"
+- user: 김수혁
+  links:
+    - title: Splunk Overview
+      link: http://www.slideshare.net/Splunk/splunk-overview-16281396
+    - title: Chrome Logger - Server side application debugging
+      link: http://craig.is/writing/chrome-logger
+    - title: git - 간편 안내서 - 어렵지 않아요!
+      link: http://rogerdudler.github.io/git-guide/index.ko.html
+    - title: groupcache
+      link: https://github.com/golang/groupcache
+- user: 성현준
+  links: 
+    - title: Ruby on Rails 4.0 킨들
+      link: http://www.amazon.com/dp/B00E25KVLW/ref=pe_245070_24466410_M1T1DP
+- user: 김한기
+  links:
+    - title: Backbone.js
+      link: http://iwidgets.kr/document/backbonejs.html
+- user: 박창진
+  links: 
+    - title: "Everyday Rails Testing with RSpec: Get advance access to my new book now"
+      link: https://www.facebook.com/trucrazevil?hc_location=stream
+- user: 이범재
+  links:
+    - title: 프로그램 얼리 어답터 - Windows 에서 가상머신(Vagrant)으로 Ruby on rails 개발환경 만들기
+      link: http://scloudy.tistory.com/30
+    - title: 스토리 텔링
+      link: http://wiki.commres.org/pds/Project_7eNrf2010/_1.pdf
+    - title: tubesock
+      link: https://github.com/ngauthier/tubesock
+    - title: "real time rails: Slides"
+      link: http://slid.es/bcardarella/real-time-rails/fullscreen
+    - title: "RailsConf 2013 Real-Time Rails by Brian Cardarella"
+      link: http://www.youtube.com/watch?v=fOI3EjsUEww
