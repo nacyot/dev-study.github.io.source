@@ -1,3 +1,0 @@
-[submodule "source/stylesheets/syntax"]
-	path = source/stylesheets/syntax
-	url = git@github.com:richleland/pygments-css.git
