@@ -8,7 +8,7 @@ env:
     - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
     - GIT_AUTHOR_NAME=nacyot
     - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
-    - secure: RRMnULOm144dkFDtKp76UWzNtH3mbv8sEXG1ZRBCftGETUP8ZgHtKuoqkR8OZ21586CCfbvbOmP9q3vi0mEhhk9Jd2W2C66TdCcSA3NGAZQSynPTorVDHx+1tCFyw9IfNSmRbYXA0NvmRa1VxU5mRlYSG00IosyEB2MmfzlbbTk=
+    - secure: "POnDEeNTXMeN6CFUuu2Hwo6yP5eZ3LQ0AhV/NmdaGY+wFKSKF3f6KE+3gLextKlGLVb+is7+fgU3jyJeyGrMUXsly08c+5nAiW4Eo6FwmtKkGezwQR1eqkDmIYXVrU03xcdLz1p8sQhZfhYSlVNopNocwtMytfDYDlcH1SdVcNk="
 before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   - git clone --quiet git@github.com:dev-study/dev-study.github.io.git build
