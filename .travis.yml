@@ -10,6 +10,7 @@ env:
     - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
     - secure: RRMnULOm144dkFDtKp76UWzNtH3mbv8sEXG1ZRBCftGETUP8ZgHtKuoqkR8OZ21586CCfbvbOmP9q3vi0mEhhk9Jd2W2C66TdCcSA3NGAZQSynPTorVDHx+1tCFyw9IfNSmRbYXA0NvmRa1VxU5mRlYSG00IosyEB2MmfzlbbTk=
 before_script:
+  - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   - git clone --quiet git@github.com:dev-study/dev-study.github.io.git build
   - pushd build
   - git checkout -b gh-pages
