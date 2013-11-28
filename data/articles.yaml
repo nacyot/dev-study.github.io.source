@@ -22,6 +22,7 @@
     - R
     - 데이터
   author: 김대권
+  published: no
 - title: CollectiveCreavity
   link: https://gist.github.com/victorkim/7055754
   date: 2013-10-19
@@ -161,24 +162,24 @@
   date: 2013-9-24
   tags:
     - AngularJS
-- title: rails-api 젬을 이용한 레일스 API 작성하기 (2)
+- title: rails-api 젬을 이용한 레일즈 API 작성하기 (2)
   link: http://happyrails.rorlab.org/ko/posts/65
   author: 최효성
   tags: 
     - AngularJS
     - RailsAPI
-    - 레일스
+    - 레일즈
     - JBuilder
     - RABL
     - API
   date: 2013-9-21
-- title: rails-api 젬을 이용한 레일스 API 작성하기 (1)
+- title: rails-api 젬을 이용한 레일즈 API 작성하기 (1)
   link: http://happyrails.rorlab.org/ko/posts/64
   author: 최효성
   tags: 
     - AngularJS
     - RailsAPI
-    - 레일스
+    - 레일즈
     - API
   date: 2013-9-20
 - title: angular ajax 관련해서 설정법
@@ -221,7 +222,7 @@
     - VSNS
     - Heroku
     - Bundler
-    - 레일스
+    - 레일즈
     - git
     - Github
 - title: 풀리퀘스트 쉽게 가져오기
@@ -464,7 +465,7 @@
   target: /articles/gem-saxtant.html
   tags:
     - gem
-    - 레일스
+    - 레일즈
   comments:
     - name: 이준헌
       date: 2013-8-15
@@ -509,7 +510,7 @@
   source: ./data/articles/rails-tip.md
   target: /articles/rails-tip.html
   tags:
-    - 레일스
+    - 레일즈
     - 자바스크립트
 - title: Github 프로토콜 설정
   link: https://www.facebook.com/groups/dev.study/permalink/228570350625042/

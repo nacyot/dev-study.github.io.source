@@ -18,7 +18,7 @@
       link: https://trello.com/c/B99XUJdO/58-sns
     - title: 오픈소스 라이센스
       link: http://nowhunt.tistory.com/2
-    - title:
+    - title: "OLIS - 라이센스 분류"
       link: https://www.olis.or.kr/ossw/license/license/list.do
 - user: 이강훈
   links:
@@ -36,27 +36,25 @@
       link: http://www.msip.go.kr/www/brd/m_211/view.do?seq=878
     - title: Bmg visual storming kit 2013_ver6.0
       link: http://www.slideshare.net/human5804/bmg-visual-storming-kit-2013ver60
-    - title: 
-      link: https://trello.com/b/9VK9XPXg/01-2-sd-specification
     - title: Types | Semantic UI
       link: http://semantic-ui.com/introduction/types.html
     - title: "New gem released: Futuroscope! - Codegram"
       link: http://blog.codegram.com/2013/5/new-gem-released-futuroscope
-    - title: 
+    - title: "[AngularJS] 배우는 방법 & 기본 개념 잡기"
       link: http://mobicon.tistory.com/m/post/view/id/281
     - title: chrome-three-sentences
       link: https://github.com/xissy/chrome-three-sentences
     - title: "Github를 이용하는 전체 흐름 이해하기 #1 :: Outsider's Dev Story"
       link: http://blog.outsider.ne.kr/865
-    - title:  
+    - title: "Outsider's Github를 이용하는 전체 흐름 이해하기 #2"
       link: http://blog.outsider.ne.kr/866
     - title: Adding Real-Time To Rails With Socket.IO, Node.js and Backbone.js
       link: (With Demo) - Liam Kaufman
-    - title: 
+    - title: "Liam Kaufman : Adding Real-Time to Rails With Socket.IO, Node.js and Backbone.js"
       link: http://liamkaufman.com/blog/2012/02/25/adding_real-time_to_rails_with_socket.IO_nodejs_and_backbonejs_with_demo/
     - title: hojoki
       link: http://hojoki.com/
-    - title: 
+    - title: "Make your own gem"
       link: http://guides.rubygems.org/make-your-own-gem/
     - title: Mural.ly - Google Docs for Visual People
       link: https://mural.ly/
@@ -96,7 +94,7 @@
     link: https://github.com/visionmedia/n
   - title: ":: 그냥 삽살이 - 내일의 바람이 불어야 모레의 해가 뜬다 :: GIT"
     link: 서브모듈사용법 - 추가, 사용, 제거, 업데이트
-  - title: 
+  - title: "GIT 서브모듈사용법 - 추가, 사용, 제거, 업데이트"
     link: http://sapsaldog.tistory.com/entry/GIT-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B6%94%EA%B0%80-%EC%82%AC%EC%9A%A9-%EC%A0%9C%EA%B1%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8   
   - title: git 치트시트
     link: http://j.mp/1eg6eWf
@@ -124,7 +122,7 @@
       link: http://staunchrobots.com/blog/blog/2013/10/14/up-and-running-with-angularjs-and-rails/
     - title: Screenhero
       link: http://screenhero.com/
-    - title: 
+    - title: "textAngular"
       link: http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=aaf8b4fd80&e=e4f41c79a0
     - title: active_model_serializers
       link: https://github.com/rails-api/active_model_serializers
@@ -152,9 +150,9 @@
   links:
     - title: Docker
       link: https://www.docker.io/
-    - title: 
+    - title: "Why is this program erroneously rejected by three C++ compilers?"
       link: http://stackoverflow.com/questions/5508110/why-is-this-program-erroneously-rejected-by-three-c-compilers/5509143
-    - title: 
+    - title: "Github Help : Closing issues via commit messages"
       link: https://help.github.com/articles/closing-issues-via-commit-messages
     - title: "#308 Oh My ZSH - RailsCasts"
       link: http://railscasts.com/episodes/308-oh-my-zsh
@@ -175,7 +173,7 @@
       link: http://www.youtube.com/watch?v=i9MHigUZKEM
 - user: 이성구
   links:
-    - title: 
+    - title: "RailRoady"
       link: https://github.com/preston/railroady
 - user: 민동국
   links:
@@ -183,7 +181,7 @@
       link: http://slid.es/gsklee/animation-in-angularjs
     - title: Angularjs batarang
       link: http://youtu.be/q-7mhcHXSfM
-    - title: 
+    - title: "Chrome extension search : angularjs"
       link: https://chrome.google.com/webstore/search/angularjs
     - title: "[Yeoman] v1.0 으로 AngularJS 개발환경 구성하기"
       link: http://mobicon.tistory.com/274
@@ -259,5 +257,5 @@
       link: https://github.com/ngauthier/tubesock
     - title: "real time rails: Slides"
       link: http://slid.es/bcardarella/real-time-rails/fullscreen
-    - title: 
+    - title: "RailsConf 2013 Real-Time Rails by Brian Cardarella"
       link: http://www.youtube.com/watch?v=fOI3EjsUEww

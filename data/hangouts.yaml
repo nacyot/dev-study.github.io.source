@@ -1,7 +1,7 @@
 - title: 공동가계부팀 angularjs 행아웃 1/2
   target: /hangouts/2013_10_28_bbapi_1.html
   date: 2013-10-28
-  user: 김충섭
+  author: 김충섭
   video: http://www.youtube.com/watch?v=-egoclwsX9k
   tags:
     - AngularJS
@@ -9,14 +9,14 @@
 - title: 공동가계부팀 angularjs 행아웃 2/2
   target: /hangouts/2013_10-28_bbapi_2.html
   date: 2013-10-28
-  user: 김충섭
+  author: 김충섭
   tags: 
     - AngularJS
     - 공동가계부
   video: http://www.youtube.com/watch?v=CUIQDvc0qFU
 - title: 공동 가계부팀 행아웃
   target: /hangouts/2013_10_14_bbapi.html
-  user: 최효성
+  author: 최효성
   date: 2013-10-14
   video: http://youtu.be/rt7VDJmKWJw
   memo: 최효성 박사님 목소리 녹음 안 됨.
@@ -25,11 +25,13 @@
 - title: 공동 가계부팀 행아웃
   target: /hangouts/2013_10_5_bbapi.html
   date: 2013-10-5
+  author: 장재휴
   video: http://www.youtube.com/watch?v=xaq4KKHz_Ak
   tags:
     - 공동가계부
 - title: 공동 가계부팀 행아웃
   target: /hangouts/2013_10_1_bbapi.html
+  author: 장재휴
   date: 2013-10-1
   video: https://www.youtube.com/watch?v=KhZ2cxVCkVk
   links: 
@@ -38,7 +40,7 @@
     - 공동가계부
 - title: VSNS 코드리뷰 3/3
   target: /hangouts/2013_9_10_vsns_review_3.html
-  user: 최효성
+  author: 최효성
   date: 2013-9-10
   video: http://youtu.be/MCkqWpP1Tw0
   tags:
@@ -46,14 +48,15 @@
     - 레일스
 - title: VSNS 코드리뷰 2/3
   target: /hangouts/2013_9_8_vsns_review_2.html
-  user: 최효성
+  author: 최효성
   date: 2013-9-8
-  video: http://www.youtube.com/embed/lgQ9Q1PVERw
+  video: http://youtu.be/lgQ9Q1PVERw
   tags:
     - VSNS
     - 레일스
 - title: VSNS 코드리뷰 1/3
   date: 2013-9-6
+  author: 최효성
   target: /hangouts/2013_9_6_vsns_review_1.html
   video: http://youtu.be/kyfCfAG9L2Y
   tags:
@@ -62,14 +65,14 @@
 - title: Layouts in Rails 3
   date: 2013-9-2
   target: /hangouts/2013_9_2_layouts_in_rails3
-  user: 최효성
+  author: 최효성
   video: http://youtu.be/vIBtoX1v4do
   tags:
     - 레일스
     - Nested Layout
 - title: "Rails : 로그인, 로그아웃, 포스팅, 사진 업로드"
   target: /hangouts/2013_8_26_rails.html
-  user: 이준헌
+  author: 이준헌
   date: 2013-8-26
   video: "http://www.youtube.com/watch?v=mz12j9FihCA&feature=youtu.be"
   tags:
@@ -77,7 +80,7 @@
 - title: Rails Migrations on CLI
   target: /hangouts/2013_8_24_rails_migrations_on_cli.html
   date: 2013-8-24
-  user: 최효성
+  author: 최효성
   video: "http://www.youtube.com/watch?v=eI0Jd9KajF4&feature=share&list=PLXE1NhsJxLVzGZYikEluwGvzPyaNnDq9I"
   tags: 
     - 레일스
@@ -85,7 +88,7 @@
 - title: Dev.Rulu 라이브 코딩
   date: 2013-8-26
   target: /hangouts/2013_8_26_dev_rulu_live_coding.html
-  user: 이준헌
+  author: 이준헌
   video: "http://www.youtube.com/watch?v=mz12j9FihCA&feature=youtu.be"
   tags: 
     - 레일스
@@ -93,7 +96,7 @@
 - title: 이준헌 님의 Best Practice 따라해보기
   target: /hangouts/2013_8_28_best_practice.html
   date: 2013-8-28
-  user: 김성준
+  author: 김성준
   video: http://www.youtube.com/watch?v=TELOqJRrqsc
   links: 
     - https://www.facebook.com/groups/dev.study.members/permavideo/503270153100856/
@@ -103,14 +106,14 @@
 - title: Dev.Study 팀 빅 파이 프로젝트 소개
   target: /hangouts/2013_9_1_bigpie_team_introduction.html
   date: 2013-9-1
-  user: 최효성
+  author: 최효성
   video: http://www.youtube.com/watch?v=HRCGa9YfgTo
   tags: 
     - 레일스
 - title: TDD with Angular.js
   target: /hangouts/tdd_with_angularjs.html
   date: 2013-9-27
-  user: 최완복
+  author: 최완복
   video: http://www.youtube.com/watch?v=ky5niqF7vHc
   tags: 
     - Test Driven Development
