@@ -1,9 +1,9 @@
-class PresentationDecorator < SimpleDelegator
+class HangoutDecorator < SimpleDelegator
   include InfoHtmlDecorator
   include MediaDecorator
 
   def icon_html
-    "<i class='fa fa-video-camera fa-2x'></i>"
+    "<i class='fa fa-play fa-2x'></i>"
   end
   
   def link

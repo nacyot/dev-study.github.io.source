@@ -1,0 +1,3 @@
+class TagDecorator < SimpleDelegator
+
+end
