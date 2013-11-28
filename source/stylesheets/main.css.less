@@ -4,6 +4,36 @@ body{
     line-height: 1.5em;
 }
 
+.index{
+    p{
+        font-size: 1em;
+        line-height: 1.7em;
+        text-align: justify;
+    }
+    
+    h1{
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 30px;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        text-transform: uppercase;
+        font-size: 40px;
+        letter-spacing: 1px;
+        font-weight: 900;
+        text-rendering: optimizelegibility;
+        transition: all 0.2s ease 0s;
+    }
+}
+
+.footer{
+    margin-top: 60px;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.row{
+    margin: 0;
+}
+
 .index-toc-fixed{
     position: fixed;
     right: 70px;
@@ -27,6 +57,18 @@ body{
         position:static;
         width: auto;
     }
+}
+
+.sidebar{
+  margin-left: -250px;
+  left: 250px;
+  width: 250px;
+  background: #000;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.4s ease 0s;
 }
 
 .presentation-detail-fixed{
@@ -102,11 +144,11 @@ body{
 }
 
 .bb-background {
-  background-image: url('/images/jangjin.png');
+    // background-image: url('/images/jangjin.png');
 }
 
 .rts-background {
-  background-image: url('/images/jangjin.png');
+    // background-image: url('/images/jangjin.png');
 }
 
 .text-middle{

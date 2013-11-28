@@ -7,5 +7,6 @@
  *= require_self
  *= require main
  *= require article
+ *= require refernce
  *= require syntax/emacs.css
 */
