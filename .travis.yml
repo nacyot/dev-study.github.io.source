@@ -11,10 +11,10 @@ env:
 before_script:
 - npm install -g bower
 - bower install
-- git clone --quiet https://github.com/dev-study/dev-study.github.io.source.git build
+- git clone --quiet https://github.com/dev-study/dev-study.github.io.git build
 script: bundle exec middleman build
 after_success:
 - cd build
 - git add -A
 - git commit -m 'Update build files'
-- '[ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master'
+- '[ $GH_TOKEN ] && git push https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master'
