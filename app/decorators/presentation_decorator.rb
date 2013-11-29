@@ -1,3 +1,7 @@
+# TODO 
+require './app/decorators/info_html_decorator.rb'
+require './app/decorators/media_decorator.rb'
+
 class PresentationDecorator < SimpleDelegator
   include InfoHtmlDecorator
   include MediaDecorator
