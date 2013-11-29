@@ -11,9 +11,9 @@ env:
     - secure: "POnDEeNTXMeN6CFUuu2Hwo6yP5eZ3LQ0AhV/NmdaGY+wFKSKF3f6KE+3gLextKlGLVb+is7+fgU3jyJeyGrMUXsly08c+5nAiW4Eo6FwmtKkGezwQR1eqkDmIYXVrU03xcdLz1p8sQhZfhYSlVNopNocwtMytfDYDlcH1SdVcNk="
 before_script:
   # - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+  - git checkout source
   - git clone --quiet https://github.com/dev-study/dev-study.github.io.source.git build
   - pushd build
-  - git checkout -b gh-pages
   - popd
 script: bundle exec middleman build
 after_success:
