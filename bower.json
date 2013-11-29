@@ -6,6 +6,6 @@
     "angular-sanitize": "~1.2.0",
     "jquery": "*",
     "font-awesome": "~4.0.3",
-    "bootflat": "git@github.com:flathemes/bootflat.git"
+    "bootflat": "https://github.com/flathemes/bootflat.git"
   }
 }
