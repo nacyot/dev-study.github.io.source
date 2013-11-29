@@ -1,6 +1,5 @@
 language: ruby
 rvm: 
-  - 1.9.3
   - 2.0.0
 env:
   global:
@@ -13,8 +12,6 @@ before_script:
   # - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   - git checkout source
   - git clone --quiet https://github.com/dev-study/dev-study.github.io.source.git build
-  - pushd build
-  - popd
 script: bundle exec middleman build
 after_success:
   - cd build
