@@ -3,11 +3,11 @@ rvm:
 - 2.0.0
 env:
   global:
+  - secure: zP1fgHsddJK+gv8HbESqoPJ/2v/jHyaOsWYTQn0je7oZNIrxhY4ndEyoKpFNfKO5kzGPsRjVi83f9DlJv2818NDf2b4Z/+apyM4uqPuw472jt0wQg1n7SaISqZHCqbkS746YRquNIX1RhTMImmtBG5DS+nKYjVhl1sbpVYhDjQQ=
   - GIT_COMMITTER_NAME=nacyot
   - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
   - GIT_AUTHOR_NAME=nacyot
   - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
-  - secure: Dnws69bfiB1G40wwPqCB+WNVu4P+UmzAz+Vx6FXyuB/Esxd4goIxchp/2L9Iui/dx8iX31Dk0qsNzkBbGMnqS9Qq8ZzTOgNFIwUyoE1lXH/qYNTI/VOmcYkn3GvRtwRXILmcHvdsFJ4ZwLWGpmstaKpWoDSytBmV3K/6/OV4NPc=
 before_script:
 - npm install -g bower
 - bower install
