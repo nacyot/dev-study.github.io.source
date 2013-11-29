@@ -1,3 +1,6 @@
+# TODO 
+require './app/decorators/info_html_decorator.rb'
+
 class ArticleDecorator < SimpleDelegator
   include InfoHtmlDecorator
 
