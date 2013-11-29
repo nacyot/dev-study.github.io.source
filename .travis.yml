@@ -7,7 +7,7 @@ env:
   - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
   - GIT_AUTHOR_NAME=nacyot
   - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
-  - secure: oNhn14IEn/GqH48q68Voz+BJiF9d+60/bgF4wP/THuAwsL31cClwyfpL2rUgcebHIEj5qO8FJbrwt9qHYNSx992qO4w582gpzOnGQfcid9cLR133DsgKgIxq3C7OjDrU6wAkXqMnQAbQT6IYW343jjZnr4Sy5MktwlMozrS4L7Q=
+  - secure: C1s+z3cZb6bqhZzXlyxBvop0DOxjOuBTFAQs2/lVAV41fI7LHD7aQKU3H2WzqgId+q0hjqb4AscoN2REWb382bN5lVQu8VukbRq28nZUpcaXaXSYk+Uhuk+14Wg4O7BWAxkKqJIoed9wToYVqlhENn7avCG6gF4RR/znQthLceQ=
 before_script:
 - npm install -g bower
 - bower install
@@ -17,4 +17,6 @@ after_success:
 - cd build
 - git add -A
 - git commit -m 'Update build files'
-- git push https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master
+- '[ $GIT_COMMITTER ] && echo there is git_committer'
+- '[ $GH_TOKEN ] && echo there is Gh_Token'
+- 'git push https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master'
