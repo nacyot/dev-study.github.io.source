@@ -17,8 +17,9 @@ after_success:
 - cd build
 - git add -A
 - git commit -m 'Update build files'
-- '[ ${GIT_COMMITTER} ] && echo there is git_committer'
-- '[ ${GH_TOKEN} ] && echo there is Gh_Token'
-- 'git push https://"${GH_TOKEN}"@github.com/dev-study/dev-study.github.io.git master'
-- 'git push https://${GH_TOKEN}@github.com/dev-study/dev-study.github.io.git master'
-- git push https://${GH_TOKEN}@github.com/dev-study/dev-study.github.io.git master
+- printenv
+- "[ ${GIT_COMMITTER} ] && echo there is git_committer"
+- "[ ${GH_TOKEN} ] && echo there is Gh_Token"
+- "git push https://"${GH_TOKEN}"@github.com/dev-study/dev-study.github.io.git master"
+- "git push https://${GH_TOKEN}@github.com/dev-study/dev-study.github.io.git master"
+- git push https://"${GH_TOKEN}"E@github.com/dev-study/dev-study.github.io.git master
