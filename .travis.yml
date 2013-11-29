@@ -17,5 +17,4 @@ after_success:
 - cd build
 - git add -A
 - git commit -m 'Update build files'
-- printenv
-- git push https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master
+- git --quiet push https://$GH_TOKEN@github.com/dev-study/dev-study.github.io.git master
