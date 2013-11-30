@@ -4,11 +4,15 @@
 ** TODO RSS
 ** TODO Title 연동
 ** TODO SiteMap 생성
+** TAG index page
+** 첫페이지에 최근 갱신글 (recent update 올리기)
+** Authors index page ( + 링크 만들기)
 
 * github eco system에 연동
-** WAIT 소스코드 올리기
-** WAIT Travis 이용해서 자동 빌드 + 업로드
-** WAIT Code Climate
+** DONE 소스코드 올리기
+** DONE Travis 이용해서 자동 빌드 + 업로드
+** DONE Code Climate
+** WAIT 뱃지 달기
 
 * SOMEDAY Gravatar 연동
 * SOMEDAY 이름 - 이메일 맵핑
