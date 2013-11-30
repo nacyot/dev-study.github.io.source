@@ -133,12 +133,11 @@ YAML.load(data)
 실제 데이터는 다음과 같은 방식으로 구성됩니다. 
 
 ```ruby
-- data = """
-  name: nacyot
+data = """
+- name: nacyot
   email: propellerheaven@gmail.com
   location: seoul
-- data = """
-  name: yrcant
+- name: yrcant
   email: yrcant@gmail.com
   location: incheon
 """
