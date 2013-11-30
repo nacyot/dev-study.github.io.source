@@ -25,8 +25,11 @@
 
 # Ignore TODO
 TODO
-TODO.org
 
 # Ignore coverage
 /coverage
 /tmp
+
+# Ignore test db
+/db/test.sqlite3
+npm-debug.log
